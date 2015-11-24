@@ -1,6 +1,237 @@
 [
     {
         "contributors_enabled": false,
+        "created_at": "Wed Nov 11 16:46:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Executive Chairman, Teads. My tweets reflect my personal opinions.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "pierrechappaz.overblog.com",
+                        "expanded_url": "http://pierrechappaz.overblog.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/nPrniD3wUS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 485,
+        "follow_request_sent": false,
+        "followers_count": 14703,
+        "following": true,
+        "friends_count": 477,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 89226136,
+        "id_str": "89226136",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 820,
+        "location": "Geneva",
+        "name": "pierre chappaz",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/148484016/P1010519.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/148484016/P1010519.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89226136/1359803949",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/520508227088162816/s2-jIz4Z_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/520508227088162816/s2-jIz4Z_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "006699",
+        "profile_sidebar_fill_color": "006699",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pierrechappaz",
+        "status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Nov 23 08:13:55 +0000 2015",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "institutdeslibertes.org/la-catastrophe\u2026",
+                        "expanded_url": "http://institutdeslibertes.org/la-catastrophe-des-taux-dinterets-negatifs/",
+                        "indices": [
+                            94,
+                            117
+                        ],
+                        "url": "https://t.co/RibAJEJFny"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 8,
+            "favorited": false,
+            "geo": null,
+            "id": 668704014918402048,
+            "id_str": "668704014918402048",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "lang": "fr",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 9,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Article remarquable pour comprendre la situation \u00e9conomique et la catastrophe qui se pr\u00e9pare: https://t.co/RibAJEJFny",
+            "truncated": false
+        },
+        "statuses_count": 6266,
+        "time_zone": "Paris",
+        "url": "http://t.co/nPrniD3wUS",
+        "utc_offset": 3600,
+        "verified": false
+    },
+    {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 18 21:31:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Conseils,techniques,infos de r\u00e9f\u00e9rence pour entreprendre & d\u00e9velopper son business +actualit\u00e9s auto-entrepreneur\r\nhttp://t.co/dLfJIVV1Pz\r\nhttp://t.co/N9cQhm8DBO",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "fb.me/autoentreprend\u2026",
+                        "expanded_url": "http://fb.me/autoentreprendre",
+                        "indices": [
+                            114,
+                            136
+                        ],
+                        "url": "http://t.co/dLfJIVV1Pz"
+                    },
+                    {
+                        "display_url": "goo.gl/6K6nos",
+                        "expanded_url": "http://goo.gl/6K6nos",
+                        "indices": [
+                            138,
+                            160
+                        ],
+                        "url": "http://t.co/N9cQhm8DBO"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "autoentrepreneurinfo.com",
+                        "expanded_url": "http://autoentrepreneurinfo.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/q6T4AeU16K"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 62,
+        "follow_request_sent": false,
+        "followers_count": 11577,
+        "following": true,
+        "friends_count": 789,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 48497851,
+        "id_str": "48497851",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 331,
+        "location": "France",
+        "name": "auto-entrepreneur",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/269138050/twitter-background.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/269138050/twitter-background.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000341986289/f4a41bb47b6232750f257c3dac466841_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000341986289/f4a41bb47b6232750f257c3dac466841_normal.png",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "autoentreprise",
+        "status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Nov 24 17:47:25 +0000 2015",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            61,
+                            78
+                        ],
+                        "text": "autoentrepreneur"
+                    },
+                    {
+                        "indices": [
+                            79,
+                            92
+                        ],
+                        "text": "entreprendre"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "is.gd/mFcqiQ",
+                        "expanded_url": "http://is.gd/mFcqiQ",
+                        "indices": [
+                            93,
+                            116
+                        ],
+                        "url": "https://t.co/dxX0jXz1AY"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 669210727438262272,
+            "id_str": "669210727438262272",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "lang": "fr",
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 1,
+            "retweeted": false,
+            "source": "<a href=\"http://winthecustomer.com/\" rel=\"nofollow\">Win the Customer</a>",
+            "text": "15 minutes pour apprendre \u00e0 fixer votre prix psychologique - #autoentrepreneur #entreprendre https://t.co/dxX0jXz1AY",
+            "truncated": false
+        },
+        "statuses_count": 11719,
+        "time_zone": "Paris",
+        "url": "http://t.co/q6T4AeU16K",
+        "utc_offset": 3600,
+        "verified": false
+    },
+    {
+        "contributors_enabled": false,
         "created_at": "Wed Apr 17 23:09:36 +0000 2013",
         "default_profile": false,
         "default_profile_image": false,
@@ -23,11 +254,11 @@
                 ]
             }
         },
-        "favourites_count": 4498,
+        "favourites_count": 4504,
         "follow_request_sent": false,
-        "followers_count": 10561,
+        "followers_count": 10565,
         "following": true,
-        "friends_count": 475,
+        "friends_count": 478,
         "geo_enabled": false,
         "has_extended_profile": false,
         "id": 1360546856,
@@ -35,7 +266,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "fr",
-        "listed_count": 188,
+        "listed_count": 189,
         "location": "Paris",
         "name": "Nous_Citoyens",
         "notifications": false,
@@ -56,26 +287,41 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 14:38:50 +0000 2015",
+            "created_at": "Tue Nov 24 16:55:58 +0000 2015",
             "entities": {
-                "hashtags": [],
-                "media": [
+                "hashtags": [
                     {
-                        "display_url": "pic.twitter.com/K1jm5YY8S0",
-                        "expanded_url": "http://twitter.com/McZoulou/status/668800812731248640/photo/1",
-                        "id": 668800788014190593,
-                        "id_str": "668800788014190593",
+                        "indices": [
+                            22,
+                            33
+                        ],
+                        "text": "GrandParis"
+                    },
+                    {
                         "indices": [
                             42,
-                            65
+                            57
                         ],
-                        "media_url": "http://pbs.twimg.com/media/CUgOxfMWUAE4rRC.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CUgOxfMWUAE4rRC.jpg",
+                        "text": "Regionales2015"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/XOcLMpWnJx",
+                        "expanded_url": "http://twitter.com/ptebibel/status/669180543888662528/photo/1",
+                        "id": 669180524796256257,
+                        "id_str": "669180524796256257",
+                        "indices": [
+                            88,
+                            111
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CUloJE8XIAEwzW4.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CUloJE8XIAEwzW4.jpg",
                         "sizes": {
                             "large": {
-                                "h": 1024,
+                                "h": 768,
                                 "resize": "fit",
-                                "w": 1024
+                                "w": 768
                             },
                             "medium": {
                                 "h": 600,
@@ -93,44 +339,54 @@
                                 "w": 150
                             }
                         },
-                        "source_status_id": 668800812731248640,
-                        "source_status_id_str": "668800812731248640",
-                        "source_user_id": 2860389435,
-                        "source_user_id_str": "2860389435",
+                        "source_status_id": 669180543888662528,
+                        "source_status_id_str": "669180543888662528",
+                        "source_user_id": 434023545,
+                        "source_user_id_str": "434023545",
                         "type": "photo",
-                        "url": "https://t.co/K1jm5YY8S0"
+                        "url": "https://t.co/XOcLMpWnJx"
                     }
                 ],
                 "symbols": [],
                 "urls": [],
                 "user_mentions": [
                     {
-                        "id": 2860389435,
-                        "id_str": "2860389435",
+                        "id": 434023545,
+                        "id_str": "434023545",
                         "indices": [
                             3,
                             12
                         ],
-                        "name": "Sophie Mc",
-                        "screen_name": "McZoulou"
+                        "name": "Pascal Tebibel",
+                        "screen_name": "ptebibel"
                     },
                     {
                         "id": 1360546856,
                         "id_str": "1360546856",
                         "indices": [
-                            27,
-                            41
+                            58,
+                            72
                         ],
                         "name": "Nous_Citoyens",
                         "screen_name": "Nous_Citoyens"
+                    },
+                    {
+                        "id": 571109481,
+                        "id_str": "571109481",
+                        "indices": [
+                            73,
+                            87
+                        ],
+                        "name": "Val\u00e9rie Sachs",
+                        "screen_name": "valerie_sachs"
                     }
                 ]
             },
             "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 668800882008567809,
-            "id_str": "668800882008567809",
+            "id": 669197778480971776,
+            "id_str": "669197778480971776",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -139,31 +395,46 @@
             "lang": "fr",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 10,
+            "retweet_count": 7,
             "retweeted": false,
             "retweeted_status": {
                 "contributors": null,
                 "coordinates": null,
-                "created_at": "Mon Nov 23 14:38:34 +0000 2015",
+                "created_at": "Tue Nov 24 15:47:29 +0000 2015",
                 "entities": {
-                    "hashtags": [],
-                    "media": [
+                    "hashtags": [
                         {
-                            "display_url": "pic.twitter.com/K1jm5YY8S0",
-                            "expanded_url": "http://twitter.com/McZoulou/status/668800812731248640/photo/1",
-                            "id": 668800788014190593,
-                            "id_str": "668800788014190593",
+                            "indices": [
+                                8,
+                                19
+                            ],
+                            "text": "GrandParis"
+                        },
+                        {
                             "indices": [
                                 28,
-                                51
+                                43
                             ],
-                            "media_url": "http://pbs.twimg.com/media/CUgOxfMWUAE4rRC.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/CUgOxfMWUAE4rRC.jpg",
+                            "text": "Regionales2015"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/XOcLMpWnJx",
+                            "expanded_url": "http://twitter.com/ptebibel/status/669180543888662528/photo/1",
+                            "id": 669180524796256257,
+                            "id_str": "669180524796256257",
+                            "indices": [
+                                74,
+                                97
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/CUloJE8XIAEwzW4.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/CUloJE8XIAEwzW4.jpg",
                             "sizes": {
                                 "large": {
-                                    "h": 1024,
+                                    "h": 768,
                                     "resize": "fit",
-                                    "w": 1024
+                                    "w": 768
                                 },
                                 "medium": {
                                     "h": 600,
@@ -182,7 +453,7 @@
                                 }
                             },
                             "type": "photo",
-                            "url": "https://t.co/K1jm5YY8S0"
+                            "url": "https://t.co/XOcLMpWnJx"
                         }
                     ],
                     "symbols": [],
@@ -192,19 +463,29 @@
                             "id": 1360546856,
                             "id_str": "1360546856",
                             "indices": [
-                                13,
-                                27
+                                44,
+                                58
                             ],
                             "name": "Nous_Citoyens",
                             "screen_name": "Nous_Citoyens"
+                        },
+                        {
+                            "id": 571109481,
+                            "id_str": "571109481",
+                            "indices": [
+                                59,
+                                73
+                            ],
+                            "name": "Val\u00e9rie Sachs",
+                            "screen_name": "valerie_sachs"
                         }
                     ]
                 },
-                "favorite_count": 2,
+                "favorite_count": 1,
                 "favorited": false,
                 "geo": null,
-                "id": 668800812731248640,
-                "id_str": "668800812731248640",
+                "id": 669180543888662528,
+                "id_str": "669180543888662528",
                 "in_reply_to_screen_name": null,
                 "in_reply_to_status_id": null,
                 "in_reply_to_status_id_str": null,
@@ -213,17 +494,17 @@
                 "lang": "fr",
                 "place": null,
                 "possibly_sensitive": false,
-                "retweet_count": 10,
+                "retweet_count": 7,
                 "retweeted": false,
                 "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-                "text": "C'est parti! @Nous_Citoyens https://t.co/K1jm5YY8S0",
+                "text": "Pour un #GrandParis Citoyen #Regionales2015 @Nous_Citoyens @valerie_sachs https://t.co/XOcLMpWnJx",
                 "truncated": false
             },
             "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-            "text": "RT @McZoulou: C'est parti! @Nous_Citoyens https://t.co/K1jm5YY8S0",
+            "text": "RT @ptebibel: Pour un #GrandParis Citoyen #Regionales2015 @Nous_Citoyens @valerie_sachs https://t.co/XOcLMpWnJx",
             "truncated": false
         },
-        "statuses_count": 8886,
+        "statuses_count": 8907,
         "time_zone": "Paris",
         "url": "http://t.co/LnPirBHmEZ",
         "utc_offset": 3600,
@@ -255,7 +536,7 @@
         },
         "favourites_count": 30,
         "follow_request_sent": false,
-        "followers_count": 11711,
+        "followers_count": 11712,
         "following": true,
         "friends_count": 93,
         "geo_enabled": true,
@@ -425,9 +706,9 @@
         },
         "favourites_count": 18,
         "follow_request_sent": false,
-        "followers_count": 2089,
+        "followers_count": 2092,
         "following": true,
-        "friends_count": 2063,
+        "friends_count": 2064,
         "geo_enabled": true,
         "has_extended_profile": false,
         "id": 432806159,
@@ -456,13 +737,13 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Tue Nov 24 00:20:37 +0000 2015",
+            "created_at": "Tue Nov 24 18:29:09 +0000 2015",
             "entities": {
                 "hashtags": [
                     {
                         "indices": [
-                            54,
-                            69
+                            76,
+                            91
                         ],
                         "text": "institutcoppet"
                     }
@@ -470,13 +751,13 @@
                 "symbols": [],
                 "urls": [
                     {
-                        "display_url": "institutcoppet.org/2011/06/19/ent\u2026",
-                        "expanded_url": "http://www.institutcoppet.org/2011/06/19/entretiens-avec-pierre-manent?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost",
+                        "display_url": "institutcoppet.org/2011/09/26/les\u2026",
+                        "expanded_url": "http://www.institutcoppet.org/2011/09/26/les-moderes-les-extremistes-bastiat-et-la-liberte?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost",
                         "indices": [
-                            30,
-                            53
+                            52,
+                            75
                         ],
-                        "url": "https://t.co/oeiMkiwgvu"
+                        "url": "https://t.co/Mg5WyAgpsi"
                     }
                 ],
                 "user_mentions": []
@@ -484,8 +765,8 @@
             "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 668947293903679490,
-            "id_str": "668947293903679490",
+            "id": 669221231451881472,
+            "id_str": "669221231451881472",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -494,13 +775,13 @@
             "lang": "fr",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 0,
+            "retweet_count": 1,
             "retweeted": false,
             "source": "<a href=\"http://www.ajaymatharu.com/\" rel=\"nofollow\">Tweet Old Post</a>",
-            "text": "Entretiens avec Pierre Manent https://t.co/oeiMkiwgvu #institutcoppet",
+            "text": "Les mod\u00e9r\u00e9s, les extr\u00e9mistes, Bastiat et la libert\u00e9 https://t.co/Mg5WyAgpsi #institutcoppet",
             "truncated": false
         },
-        "statuses_count": 11476,
+        "statuses_count": 11488,
         "time_zone": "Paris",
         "url": "http://t.co/uGau1x3Zud",
         "utc_offset": 3600,
@@ -542,7 +823,7 @@
         },
         "favourites_count": 2643,
         "follow_request_sent": false,
-        "followers_count": 6400,
+        "followers_count": 6402,
         "following": true,
         "friends_count": 921,
         "geo_enabled": false,
@@ -572,157 +853,93 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 22:13:50 +0000 2015",
+            "created_at": "Tue Nov 24 12:47:01 +0000 2015",
             "entities": {
                 "hashtags": [],
-                "media": [
+                "symbols": [],
+                "urls": [
                     {
-                        "display_url": "pic.twitter.com/qSkWSTOR6m",
-                        "expanded_url": "http://twitter.com/Collec_Antigone/status/654007577899061249/photo/1",
-                        "id": 654007576795942913,
-                        "id_str": "654007576795942913",
+                        "display_url": "twitter.com/WSJ/status/669\u2026",
+                        "expanded_url": "https://twitter.com/WSJ/status/669091567513296896",
                         "indices": [
-                            106,
-                            129
+                            139,
+                            140
                         ],
-                        "media_url": "http://pbs.twimg.com/media/CROAbQ9WEAE5qdU.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CROAbQ9WEAE5qdU.jpg",
-                        "sizes": {
-                            "large": {
-                                "h": 700,
-                                "resize": "fit",
-                                "w": 500
-                            },
-                            "medium": {
-                                "h": 700,
-                                "resize": "fit",
-                                "w": 500
-                            },
-                            "small": {
-                                "h": 475,
-                                "resize": "fit",
-                                "w": 340
-                            },
-                            "thumb": {
-                                "h": 150,
-                                "resize": "crop",
-                                "w": 150
-                            }
-                        },
-                        "source_status_id": 654007577899061249,
-                        "source_status_id_str": "654007577899061249",
-                        "source_user_id": 826637311,
-                        "source_user_id_str": "826637311",
-                        "type": "photo",
-                        "url": "https://t.co/qSkWSTOR6m"
+                        "url": "https://t.co/3fagOgKRDX"
                     }
                 ],
-                "symbols": [],
-                "urls": [],
                 "user_mentions": [
                     {
-                        "id": 826637311,
-                        "id_str": "826637311",
+                        "id": 149913262,
+                        "id_str": "149913262",
                         "indices": [
                             3,
-                            19
+                            16
                         ],
-                        "name": "Collectif Antigone",
-                        "screen_name": "Collec_Antigone"
+                        "name": "David Burge",
+                        "screen_name": "iowahawkblog"
                     }
                 ]
             },
             "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 668915387367620608,
-            "id_str": "668915387367620608",
+            "id": 669135129974042628,
+            "id_str": "669135129974042628",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
-            "lang": "fr",
+            "lang": "en",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 5,
+            "retweet_count": 550,
             "retweeted": false,
             "retweeted_status": {
                 "contributors": null,
                 "coordinates": null,
-                "created_at": "Sun Nov 22 10:20:33 +0000 2015",
+                "created_at": "Tue Nov 24 12:45:48 +0000 2015",
                 "entities": {
                     "hashtags": [],
-                    "media": [
+                    "symbols": [],
+                    "urls": [
                         {
-                            "display_url": "pic.twitter.com/qSkWSTOR6m",
-                            "expanded_url": "http://twitter.com/Collec_Antigone/status/654007577899061249/photo/1",
-                            "id": 654007576795942913,
-                            "id_str": "654007576795942913",
+                            "display_url": "twitter.com/WSJ/status/669\u2026",
+                            "expanded_url": "https://twitter.com/WSJ/status/669091567513296896",
                             "indices": [
-                                85,
-                                108
+                                110,
+                                133
                             ],
-                            "media_url": "http://pbs.twimg.com/media/CROAbQ9WEAE5qdU.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/CROAbQ9WEAE5qdU.jpg",
-                            "sizes": {
-                                "large": {
-                                    "h": 700,
-                                    "resize": "fit",
-                                    "w": 500
-                                },
-                                "medium": {
-                                    "h": 700,
-                                    "resize": "fit",
-                                    "w": 500
-                                },
-                                "small": {
-                                    "h": 475,
-                                    "resize": "fit",
-                                    "w": 340
-                                },
-                                "thumb": {
-                                    "h": 150,
-                                    "resize": "crop",
-                                    "w": 150
-                                }
-                            },
-                            "source_status_id": 654007577899061249,
-                            "source_status_id_str": "654007577899061249",
-                            "source_user_id": 826637311,
-                            "source_user_id_str": "826637311",
-                            "type": "photo",
-                            "url": "https://t.co/qSkWSTOR6m"
+                            "url": "https://t.co/3fagOgKRDX"
                         }
                     ],
-                    "symbols": [],
-                    "urls": [],
                     "user_mentions": []
                 },
-                "favorite_count": 6,
+                "favorite_count": 291,
                 "favorited": false,
                 "geo": null,
-                "id": 668373493151612928,
-                "id_str": "668373493151612928",
+                "id": 669134822489481217,
+                "id_str": "669134822489481217",
                 "in_reply_to_screen_name": null,
                 "in_reply_to_status_id": null,
                 "in_reply_to_status_id_str": null,
                 "in_reply_to_user_id": null,
                 "in_reply_to_user_id_str": null,
-                "lang": "fr",
+                "lang": "en",
                 "place": null,
                 "possibly_sensitive": false,
-                "retweet_count": 5,
+                "retweet_count": 550,
                 "retweeted": false,
-                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-                "text": "Le boom est en r\u00e9alit\u00e9 une p\u00e9riode d'investissements gaspill\u00e9s... Mises  Lib\u00e9ralisme https://t.co/qSkWSTOR6m",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "US allies shoot down jet of US allies, which falls into hands of US allies fighting against US peace partners https://t.co/3fagOgKRDX",
                 "truncated": false
             },
             "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "text": "RT @Collec_Antigone: Le boom est en r\u00e9alit\u00e9 une p\u00e9riode d'investissements gaspill\u00e9s... Mises  Lib\u00e9ralisme https://t.co/qSkWSTOR6m",
+            "text": "RT @iowahawkblog: US allies shoot down jet of US allies, which falls into hands of US allies fighting against US peace partners https://t.c\u2026",
             "truncated": false
         },
-        "statuses_count": 37516,
+        "statuses_count": 37522,
         "time_zone": "Amsterdam",
         "url": "http://t.co/Ys0UCvALXs",
         "utc_offset": 3600,
@@ -754,7 +971,7 @@
         },
         "favourites_count": 860,
         "follow_request_sent": false,
-        "followers_count": 2875,
+        "followers_count": 2877,
         "following": true,
         "friends_count": 1474,
         "geo_enabled": true,
@@ -1018,9 +1235,9 @@
                 ]
             }
         },
-        "favourites_count": 1335,
+        "favourites_count": 1331,
         "follow_request_sent": false,
-        "followers_count": 19952,
+        "followers_count": 19959,
         "following": true,
         "friends_count": 2608,
         "geo_enabled": false,
@@ -1051,39 +1268,36 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Tue Nov 24 02:00:09 +0000 2015",
+            "created_at": "Tue Nov 24 17:25:51 +0000 2015",
             "entities": {
-                "hashtags": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            107,
+                            112
+                        ],
+                        "text": "tlot"
+                    }
+                ],
                 "symbols": [],
                 "urls": [
                     {
-                        "display_url": "bit.ly/1HiSNUR",
-                        "expanded_url": "http://bit.ly/1HiSNUR",
+                        "display_url": "bit.ly/1XcuJdl",
+                        "expanded_url": "http://bit.ly/1XcuJdl",
                         "indices": [
-                            95,
-                            118
+                            83,
+                            106
                         ],
-                        "url": "https://t.co/Q7NHbzPVZu"
+                        "url": "https://t.co/o8z1ry2vb9"
                     }
                 ],
-                "user_mentions": [
-                    {
-                        "id": 354990034,
-                        "id_str": "354990034",
-                        "indices": [
-                            122,
-                            137
-                        ],
-                        "name": "Libertarianism.org",
-                        "screen_name": "libertarianism"
-                    }
-                ]
+                "user_mentions": []
             },
-            "favorite_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "geo": null,
-            "id": 668972341158899713,
-            "id_str": "668972341158899713",
+            "id": 669205298804985856,
+            "id_str": "669205298804985856",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -1094,11 +1308,11 @@
             "possibly_sensitive": false,
             "retweet_count": 0,
             "retweeted": false,
-            "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
-            "text": "The Drunk Is More or Less Innocent: A Review of William Irwin's The Free Market Existentialist https://t.co/Q7NHbzPVZu by @Libertarianism",
+            "source": "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+            "text": "SFL African Programs Manager Olumayowa Okediran Nominated for Future Awards Africa https://t.co/o8z1ry2vb9 #tlot",
             "truncated": false
         },
-        "statuses_count": 10813,
+        "statuses_count": 10816,
         "time_zone": "Atlantic Time (Canada)",
         "url": "http://t.co/u2po1XlJ9z",
         "utc_offset": -14400,
@@ -1256,7 +1470,7 @@
         },
         "favourites_count": 25,
         "follow_request_sent": false,
-        "followers_count": 12528,
+        "followers_count": 12531,
         "following": true,
         "friends_count": 299,
         "geo_enabled": false,
@@ -1404,7 +1618,7 @@
         },
         "favourites_count": 930,
         "follow_request_sent": false,
-        "followers_count": 888,
+        "followers_count": 889,
         "following": true,
         "friends_count": 848,
         "geo_enabled": false,
@@ -1502,7 +1716,7 @@
         },
         "favourites_count": 79,
         "follow_request_sent": false,
-        "followers_count": 2347,
+        "followers_count": 2348,
         "following": true,
         "friends_count": 1446,
         "geo_enabled": true,
@@ -1512,7 +1726,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "fr",
-        "listed_count": 185,
+        "listed_count": 184,
         "location": "France",
         "name": "myFrenchStartup",
         "notifications": false,
@@ -1667,9 +1881,9 @@
         },
         "favourites_count": 133,
         "follow_request_sent": false,
-        "followers_count": 408,
+        "followers_count": 407,
         "following": true,
-        "friends_count": 399,
+        "friends_count": 402,
         "geo_enabled": false,
         "has_extended_profile": false,
         "id": 1928275807,
@@ -1759,7 +1973,7 @@
             "lang": "en",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 4,
+            "retweet_count": 7,
             "retweeted": false,
             "retweeted_status": {
                 "contributors": null,
@@ -1802,7 +2016,7 @@
                         }
                     ]
                 },
-                "favorite_count": 1,
+                "favorite_count": 2,
                 "favorited": false,
                 "geo": null,
                 "id": 668750518664232960,
@@ -1815,7 +2029,7 @@
                 "lang": "en",
                 "place": null,
                 "possibly_sensitive": false,
-                "retweet_count": 4,
+                "retweet_count": 7,
                 "retweeted": false,
                 "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
                 "text": "Bravo @instent_ et @Feet_Me ! You guys rock !  https://t.co/5GJwhJERKA",
@@ -1867,7 +2081,7 @@
         },
         "favourites_count": 1,
         "follow_request_sent": false,
-        "followers_count": 6119,
+        "followers_count": 6124,
         "following": true,
         "friends_count": 135,
         "geo_enabled": true,
@@ -1897,28 +2111,106 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Fri Nov 20 09:07:10 +0000 2015",
+            "created_at": "Tue Nov 24 09:31:06 +0000 2015",
             "entities": {
-                "hashtags": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            35,
+                            41
+                        ],
+                        "text": "d\u00e9bat"
+                    },
+                    {
+                        "indices": [
+                            48,
+                            54
+                        ],
+                        "text": "\u00e9cole"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/VlZMmskbqt",
+                        "expanded_url": "http://twitter.com/SocieteEnMouv/status/669045171724656640/photo/1",
+                        "id": 669045166276288512,
+                        "id_str": "669045166276288512",
+                        "indices": [
+                            139,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CUjtCLKXIAALq1V.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CUjtCLKXIAALq1V.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 511,
+                                "resize": "fit",
+                                "w": 1024
+                            },
+                            "medium": {
+                                "h": 299,
+                                "resize": "fit",
+                                "w": 600
+                            },
+                            "small": {
+                                "h": 169,
+                                "resize": "fit",
+                                "w": 340
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "source_status_id": 669045171724656640,
+                        "source_status_id_str": "669045171724656640",
+                        "source_user_id": 3946353801,
+                        "source_user_id_str": "3946353801",
+                        "type": "photo",
+                        "url": "https://t.co/VlZMmskbqt"
+                    }
+                ],
                 "symbols": [],
                 "urls": [
                     {
-                        "display_url": "bit.ly/1O5RSbF",
-                        "expanded_url": "http://bit.ly/1O5RSbF",
+                        "display_url": "inscription-facile.com/form/AdyHJazL6\u2026",
+                        "expanded_url": "https://www.inscription-facile.com/form/AdyHJazL6MmMTcPKBSI7",
                         "indices": [
-                            65,
-                            88
+                            109,
+                            132
                         ],
-                        "url": "https://t.co/rsnYuPkUz3"
+                        "url": "https://t.co/JfRE5cL9fK"
                     }
                 ],
-                "user_mentions": []
+                "user_mentions": [
+                    {
+                        "id": 3946353801,
+                        "id_str": "3946353801",
+                        "indices": [
+                            3,
+                            17
+                        ],
+                        "name": "Soci\u00e9t\u00e9EnMouvement",
+                        "screen_name": "SocieteEnMouv"
+                    },
+                    {
+                        "id": 169017279,
+                        "id_str": "169017279",
+                        "indices": [
+                            102,
+                            108
+                        ],
+                        "name": "Fondation iFRAP",
+                        "screen_name": "iFRAP"
+                    }
+                ]
             },
-            "favorite_count": 2,
+            "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 667630251770556416,
-            "id_str": "667630251770556416",
+            "id": 669085825355931648,
+            "id_str": "669085825355931648",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -1927,13 +2219,116 @@
             "lang": "fr",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 6,
+            "retweet_count": 9,
             "retweeted": false,
-            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
-            "text": "Le chiffrage des annonces de Fran\u00e7ois Hollande devant le Congr\u00e8s https://t.co/rsnYuPkUz3",
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Tue Nov 24 06:49:33 +0000 2015",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                16,
+                                22
+                            ],
+                            "text": "d\u00e9bat"
+                        },
+                        {
+                            "indices": [
+                                29,
+                                35
+                            ],
+                            "text": "\u00e9cole"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/VlZMmskbqt",
+                            "expanded_url": "http://twitter.com/SocieteEnMouv/status/669045171724656640/photo/1",
+                            "id": 669045166276288512,
+                            "id_str": "669045166276288512",
+                            "indices": [
+                                114,
+                                137
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/CUjtCLKXIAALq1V.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/CUjtCLKXIAALq1V.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 511,
+                                    "resize": "fit",
+                                    "w": 1024
+                                },
+                                "medium": {
+                                    "h": 299,
+                                    "resize": "fit",
+                                    "w": 600
+                                },
+                                "small": {
+                                    "h": 169,
+                                    "resize": "fit",
+                                    "w": 340
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/VlZMmskbqt"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "inscription-facile.com/form/AdyHJazL6\u2026",
+                            "expanded_url": "https://www.inscription-facile.com/form/AdyHJazL6MmMTcPKBSI7",
+                            "indices": [
+                                90,
+                                113
+                            ],
+                            "url": "https://t.co/JfRE5cL9fK"
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "id": 169017279,
+                            "id_str": "169017279",
+                            "indices": [
+                                83,
+                                89
+                            ],
+                            "name": "Fondation iFRAP",
+                            "screen_name": "iFRAP"
+                        }
+                    ]
+                },
+                "favorite_count": 6,
+                "favorited": false,
+                "geo": null,
+                "id": 669045171724656640,
+                "id_str": "669045171724656640",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "lang": "fr",
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 9,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "J-1 avant notre #d\u00e9bat sur l'#\u00e9cole, avec la contribution d'Agn\u00e8s Verdier-Molini\u00e9, @iFRAP https://t.co/JfRE5cL9fK https://t.co/VlZMmskbqt",
+                "truncated": false
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "RT @SocieteEnMouv: J-1 avant notre #d\u00e9bat sur l'#\u00e9cole, avec la contribution d'Agn\u00e8s Verdier-Molini\u00e9, @iFRAP https://t.co/JfRE5cL9fK https:\u2026",
             "truncated": false
         },
-        "statuses_count": 2641,
+        "statuses_count": 2642,
         "time_zone": "Paris",
         "url": "http://t.co/kZ6HW6eM2D",
         "utc_offset": 3600,
@@ -1965,7 +2360,7 @@
         },
         "favourites_count": 10787,
         "follow_request_sent": false,
-        "followers_count": 261119,
+        "followers_count": 261132,
         "following": true,
         "friends_count": 9296,
         "geo_enabled": false,
@@ -1975,7 +2370,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 8321,
+        "listed_count": 8322,
         "location": "Washington, DC",
         "name": "Cato Institute",
         "notifications": false,
@@ -1996,49 +2391,66 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Tue Nov 24 01:26:08 +0000 2015",
+            "created_at": "Tue Nov 24 14:47:02 +0000 2015",
             "entities": {
                 "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/23rb64WKON",
+                        "expanded_url": "http://twitter.com/CatoInstitute/status/669165333056503808/photo/1",
+                        "id": 669165332989353984,
+                        "id_str": "669165332989353984",
+                        "indices": [
+                            89,
+                            112
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CUlaUzDWIAAWvVL.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CUlaUzDWIAAWvVL.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 642,
+                                "resize": "fit",
+                                "w": 702
+                            },
+                            "medium": {
+                                "h": 548,
+                                "resize": "fit",
+                                "w": 600
+                            },
+                            "small": {
+                                "h": 310,
+                                "resize": "fit",
+                                "w": 340
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/23rb64WKON"
+                    }
+                ],
                 "symbols": [],
                 "urls": [
                     {
-                        "display_url": "j.mp/1X9GJfy",
-                        "expanded_url": "http://j.mp/1X9GJfy",
+                        "display_url": "j.mp/1lFqAhb",
+                        "expanded_url": "http://j.mp/1lFqAhb",
                         "indices": [
-                            40,
-                            63
+                            65,
+                            88
                         ],
-                        "url": "https://t.co/kKGlygqjBq"
+                        "url": "https://t.co/qtaJnwQmWP"
                     }
                 ],
-                "user_mentions": [
-                    {
-                        "id": 354990034,
-                        "id_str": "354990034",
-                        "indices": [
-                            69,
-                            84
-                        ],
-                        "name": "Libertarianism.org",
-                        "screen_name": "libertarianism"
-                    },
-                    {
-                        "id": 7490462,
-                        "id_str": "7490462",
-                        "indices": [
-                            87,
-                            94
-                        ],
-                        "name": "Aaron Ross Powell",
-                        "screen_name": "ARossP"
-                    }
-                ]
+                "user_mentions": []
             },
-            "favorite_count": 3,
+            "favorite_count": 13,
             "favorited": false,
             "geo": null,
-            "id": 668963781800812544,
-            "id_str": "668963781800812544",
+            "id": 669165333056503808,
+            "id_str": "669165333056503808",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -2047,13 +2459,13 @@
             "lang": "en",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 4,
+            "retweet_count": 27,
             "retweeted": false,
             "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
-            "text": "Recognizing the state for what it is... https://t.co/kKGlygqjBq (via @libertarianism's @ARossP)",
+            "text": "Over 60% of black voters support school vouchers. Here's why.... https://t.co/qtaJnwQmWP https://t.co/23rb64WKON",
             "truncated": false
         },
-        "statuses_count": 37873,
+        "statuses_count": 37886,
         "time_zone": "Eastern Time (US & Canada)",
         "url": "http://t.co/B8J61WyWZc",
         "utc_offset": -18000,
@@ -2085,7 +2497,7 @@
         },
         "favourites_count": 500,
         "follow_request_sent": false,
-        "followers_count": 48590,
+        "followers_count": 48622,
         "following": true,
         "friends_count": 32,
         "geo_enabled": false,
@@ -2095,7 +2507,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1146,
+        "listed_count": 1147,
         "location": "Washington, DC",
         "name": "Libertarianism.org",
         "notifications": false,
@@ -2116,74 +2528,28 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Tue Nov 24 02:01:01 +0000 2015",
+            "created_at": "Tue Nov 24 17:42:13 +0000 2015",
             "entities": {
-                "hashtags": [
-                    {
-                        "indices": [
-                            40,
-                            48
-                        ],
-                        "text": "liberty"
-                    }
-                ],
-                "media": [
-                    {
-                        "display_url": "pic.twitter.com/4h0aiYaaZi",
-                        "expanded_url": "http://twitter.com/libertarianism/status/668972560382623745/photo/1",
-                        "id": 668972559988350976,
-                        "id_str": "668972559988350976",
-                        "indices": [
-                            73,
-                            96
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CUiq_7qW4AA-bin.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CUiq_7qW4AA-bin.jpg",
-                        "sizes": {
-                            "large": {
-                                "h": 512,
-                                "resize": "fit",
-                                "w": 1024
-                            },
-                            "medium": {
-                                "h": 300,
-                                "resize": "fit",
-                                "w": 600
-                            },
-                            "small": {
-                                "h": 170,
-                                "resize": "fit",
-                                "w": 340
-                            },
-                            "thumb": {
-                                "h": 150,
-                                "resize": "crop",
-                                "w": 150
-                            }
-                        },
-                        "type": "photo",
-                        "url": "https://t.co/4h0aiYaaZi"
-                    }
-                ],
+                "hashtags": [],
                 "symbols": [],
                 "urls": [
                     {
-                        "display_url": "buff.ly/1SVSYG5",
-                        "expanded_url": "http://buff.ly/1SVSYG5",
+                        "display_url": "buff.ly/1LibbYS",
+                        "expanded_url": "http://buff.ly/1LibbYS",
                         "indices": [
-                            49,
-                            72
+                            110,
+                            133
                         ],
-                        "url": "https://t.co/3FQ1UmgGek"
+                        "url": "https://t.co/h4HM6KgyRX"
                     }
                 ],
                 "user_mentions": []
             },
-            "favorite_count": 8,
+            "favorite_count": 2,
             "favorited": false,
             "geo": null,
-            "id": 668972560382623745,
-            "id_str": "668972560382623745",
+            "id": 669209418614091777,
+            "id_str": "669209418614091777",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -2192,13 +2558,13 @@
             "lang": "en",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 18,
+            "retweet_count": 1,
             "retweeted": false,
             "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
-            "text": "What is law? Hint: it's not regulation. #liberty https://t.co/3FQ1UmgGek https://t.co/4h0aiYaaZi",
+            "text": "Why do democracies frequently adopt policies that are damaging? Does this have anything to do with the voter? https://t.co/h4HM6KgyRX",
             "truncated": false
         },
-        "statuses_count": 8096,
+        "statuses_count": 8105,
         "time_zone": "Eastern Time (US & Canada)",
         "url": "http://t.co/hW5ewFJurC",
         "utc_offset": -18000,
@@ -2228,9 +2594,9 @@
                 ]
             }
         },
-        "favourites_count": 1089,
+        "favourites_count": 1138,
         "follow_request_sent": false,
-        "followers_count": 4046,
+        "followers_count": 4058,
         "following": true,
         "friends_count": 194,
         "geo_enabled": false,
@@ -2261,43 +2627,43 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 21:03:03 +0000 2015",
+            "created_at": "Tue Nov 24 15:09:29 +0000 2015",
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "urls": [
                     {
-                        "display_url": "investir.us/actualites-de-\u2026",
-                        "expanded_url": "http://investir.us/actualites-de-linvestissement-aux-usa/2016-22-startups-french-tech-pavilion-a-las-vegas/",
+                        "display_url": "objectif-france.org/of/p/1400-lett\u2026",
+                        "expanded_url": "http://www.objectif-france.org/of/p/1400-lettre-ouverte.html",
                         "indices": [
-                            116,
-                            139
+                            111,
+                            134
                         ],
-                        "url": "https://t.co/cEjP6LLqm4"
+                        "url": "https://t.co/Mc3rCh11yM"
                     }
                 ],
                 "user_mentions": []
             },
-            "favorite_count": 7,
+            "favorite_count": 1,
             "favorited": false,
             "geo": null,
-            "id": 668897572308844545,
-            "id_str": "668897572308844545",
-            "in_reply_to_screen_name": null,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
+            "id": 669170981043326977,
+            "id_str": "669170981043326977",
+            "in_reply_to_screen_name": "RafikSmati",
+            "in_reply_to_status_id": 669100019342041088,
+            "in_reply_to_status_id_str": "669100019342041088",
+            "in_reply_to_user_id": 51534469,
+            "in_reply_to_user_id_str": "51534469",
             "lang": "fr",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 5,
+            "retweet_count": 9,
             "retweeted": false,
             "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "text": "Vive la France qui cr\u00e9e, innove et prend des risques ! 22 startups sous le French Tech Pavilion au CES de Las Vegas https://t.co/cEjP6LLqm4",
+            "text": "S\u00e9curit\u00e9, \u00e9conomie... Ils ont gouvern\u00e9 la France avec l\u00e9geret\u00e9 et d\u00e9sinvolture. Lettre ouverte \u00e0 ces l\u00e2ches... https://t.co/Mc3rCh11yM",
             "truncated": false
         },
-        "statuses_count": 4757,
+        "statuses_count": 4763,
         "time_zone": "Paris",
         "url": "http://t.co/lEkc9rDxVl",
         "utc_offset": 3600,
@@ -2455,9 +2821,9 @@
         },
         "favourites_count": 628,
         "follow_request_sent": false,
-        "followers_count": 13828,
+        "followers_count": 13834,
         "following": true,
-        "friends_count": 954,
+        "friends_count": 955,
         "geo_enabled": true,
         "has_extended_profile": false,
         "id": 125619064,
@@ -2465,7 +2831,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "fr",
-        "listed_count": 212,
+        "listed_count": 213,
         "location": "Paris",
         "name": "Sophie de Menthon",
         "notifications": false,
@@ -2486,89 +2852,39 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 19:16:30 +0000 2015",
+            "created_at": "Tue Nov 24 16:39:03 +0000 2015",
             "entities": {
-                "hashtags": [
-                    {
-                        "indices": [
-                            111,
-                            121
-                        ],
-                        "text": "attentats"
-                    }
-                ],
-                "media": [
-                    {
-                        "display_url": "pic.twitter.com/00h3pMoXID",
-                        "expanded_url": "http://twitter.com/JFJagle/status/668860774010482688/photo/1",
-                        "id": 668860772924170240,
-                        "id_str": "668860772924170240",
-                        "indices": [
-                            122,
-                            140
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CUhFVEZWoAA7nuu.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CUhFVEZWoAA7nuu.jpg",
-                        "sizes": {
-                            "large": {
-                                "h": 479,
-                                "resize": "fit",
-                                "w": 638
-                            },
-                            "medium": {
-                                "h": 450,
-                                "resize": "fit",
-                                "w": 600
-                            },
-                            "small": {
-                                "h": 255,
-                                "resize": "fit",
-                                "w": 340
-                            },
-                            "thumb": {
-                                "h": 150,
-                                "resize": "crop",
-                                "w": 150
-                            }
-                        },
-                        "source_status_id": 668860774010482688,
-                        "source_status_id_str": "668860774010482688",
-                        "source_user_id": 91198355,
-                        "source_user_id_str": "91198355",
-                        "type": "photo",
-                        "url": "https://t.co/00h3pMoXID"
-                    }
-                ],
+                "hashtags": [],
                 "symbols": [],
-                "urls": [
-                    {
-                        "display_url": "ow.ly/UZ5y9",
-                        "expanded_url": "http://ow.ly/UZ5y9",
-                        "indices": [
-                            87,
-                            110
-                        ],
-                        "url": "https://t.co/otcJY01ROY"
-                    }
-                ],
+                "urls": [],
                 "user_mentions": [
                     {
-                        "id": 91198355,
-                        "id_str": "91198355",
+                        "id": 34570323,
+                        "id_str": "34570323",
                         "indices": [
-                            3,
-                            11
+                            26,
+                            34
                         ],
-                        "name": "Jean-Fran\u00e7ois Jagle\u270f",
-                        "screen_name": "JFJagle"
+                        "name": "Europe 1",
+                        "screen_name": "Europe1"
+                    },
+                    {
+                        "id": 2250623094,
+                        "id_str": "2250623094",
+                        "indices": [
+                            40,
+                            54
+                        ],
+                        "name": "Le Grand Direct E1",
+                        "screen_name": "LGDM_Officiel"
                     }
                 ]
             },
-            "favorite_count": 0,
+            "favorite_count": 4,
             "favorited": false,
             "geo": null,
-            "id": 668870757292879872,
-            "id_str": "668870757292879872",
+            "id": 669193522319392768,
+            "id_str": "669193522319392768",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -2576,99 +2892,13 @@
             "in_reply_to_user_id_str": null,
             "lang": "fr",
             "place": null,
-            "possibly_sensitive": false,
-            "retweet_count": 2,
+            "retweet_count": 3,
             "retweeted": false,
-            "retweeted_status": {
-                "contributors": null,
-                "coordinates": null,
-                "created_at": "Mon Nov 23 18:36:50 +0000 2015",
-                "entities": {
-                    "hashtags": [
-                        {
-                            "indices": [
-                                98,
-                                108
-                            ],
-                            "text": "attentats"
-                        }
-                    ],
-                    "media": [
-                        {
-                            "display_url": "pic.twitter.com/00h3pMoXID",
-                            "expanded_url": "http://twitter.com/JFJagle/status/668860774010482688/photo/1",
-                            "id": 668860772924170240,
-                            "id_str": "668860772924170240",
-                            "indices": [
-                                109,
-                                132
-                            ],
-                            "media_url": "http://pbs.twimg.com/media/CUhFVEZWoAA7nuu.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/CUhFVEZWoAA7nuu.jpg",
-                            "sizes": {
-                                "large": {
-                                    "h": 479,
-                                    "resize": "fit",
-                                    "w": 638
-                                },
-                                "medium": {
-                                    "h": 450,
-                                    "resize": "fit",
-                                    "w": 600
-                                },
-                                "small": {
-                                    "h": 255,
-                                    "resize": "fit",
-                                    "w": 340
-                                },
-                                "thumb": {
-                                    "h": 150,
-                                    "resize": "crop",
-                                    "w": 150
-                                }
-                            },
-                            "type": "photo",
-                            "url": "https://t.co/00h3pMoXID"
-                        }
-                    ],
-                    "symbols": [],
-                    "urls": [
-                        {
-                            "display_url": "ow.ly/UZ5y9",
-                            "expanded_url": "http://ow.ly/UZ5y9",
-                            "indices": [
-                                74,
-                                97
-                            ],
-                            "url": "https://t.co/otcJY01ROY"
-                        }
-                    ],
-                    "user_mentions": []
-                },
-                "favorite_count": 0,
-                "favorited": false,
-                "geo": null,
-                "id": 668860774010482688,
-                "id_str": "668860774010482688",
-                "in_reply_to_screen_name": null,
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "lang": "fr",
-                "place": null,
-                "possibly_sensitive": false,
-                "retweet_count": 2,
-                "retweeted": false,
-                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-                "text": "\u26a0 Les patrons face \u00e0 la fiche \"S\", ETHIC interpelle le Ministre Cazeneuve https://t.co/otcJY01ROY #attentats https://t.co/00h3pMoXID",
-                "truncated": false
-            },
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "text": "RT @JFJagle: \u26a0 Les patrons face \u00e0 la fiche \"S\", ETHIC interpelle le Ministre Cazeneuve https://t.co/otcJY01ROY #attentats https://t.co/00h3\u2026",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Je serai demain \u00e0 10h sur @Europe1 dans @LGDM_Officiel  pour \u00e9voquer l'\u00e9pineux sujet des salari\u00e9s fich\u00e9s \"S\"",
             "truncated": false
         },
-        "statuses_count": 6598,
+        "statuses_count": 6601,
         "time_zone": "Paris",
         "url": "http://t.co/CLvQXtFII0",
         "utc_offset": 3600,
@@ -2700,9 +2930,9 @@
         },
         "favourites_count": 12,
         "follow_request_sent": false,
-        "followers_count": 102484,
+        "followers_count": 102513,
         "following": true,
-        "friends_count": 20445,
+        "friends_count": 20834,
         "geo_enabled": false,
         "has_extended_profile": false,
         "id": 79235322,
@@ -2710,7 +2940,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "fr",
-        "listed_count": 2077,
+        "listed_count": 2075,
         "location": "Paris, France",
         "name": "Alain Regnier",
         "notifications": false,
@@ -2730,39 +2960,136 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 08:58:22 +0000 2015",
+            "created_at": "Tue Nov 24 08:39:01 +0000 2015",
             "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "urls": [
+                "hashtags": [
                     {
-                        "display_url": "bit.ly/stpvfr",
-                        "expanded_url": "http://bit.ly/stpvfr",
                         "indices": [
-                            119,
-                            140
+                            37,
+                            40
                         ],
-                        "url": "https://t.co/ekShMqemRP"
+                        "text": "VR"
+                    },
+                    {
+                        "indices": [
+                            45,
+                            58
+                        ],
+                        "text": "ParisGlassUG"
                     }
                 ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/XeXs9cP9zY",
+                        "expanded_url": "http://twitter.com/GlassFrance/status/668720832823324672/photo/1",
+                        "id": 668720770479169540,
+                        "id_str": "668720770479169540",
+                        "indices": [
+                            139,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CUfF_2pWIAQ7c_m.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CUfF_2pWIAQ7c_m.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 576,
+                                "resize": "fit",
+                                "w": 1024
+                            },
+                            "medium": {
+                                "h": 337,
+                                "resize": "fit",
+                                "w": 600
+                            },
+                            "small": {
+                                "h": 191,
+                                "resize": "fit",
+                                "w": 340
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "source_status_id": 668720832823324672,
+                        "source_status_id_str": "668720832823324672",
+                        "source_user_id": 1500838334,
+                        "source_user_id_str": "1500838334",
+                        "type": "photo",
+                        "url": "https://t.co/XeXs9cP9zY"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
                 "user_mentions": [
                     {
-                        "id": 200563270,
-                        "id_str": "200563270",
+                        "id": 1500838334,
+                        "id_str": "1500838334",
                         "indices": [
                             3,
-                            18
+                            15
                         ],
-                        "name": "Startup Village",
-                        "screen_name": "startupvillage"
+                        "name": "Glass France",
+                        "screen_name": "GlassFrance"
+                    },
+                    {
+                        "id": 70643496,
+                        "id_str": "70643496",
+                        "indices": [
+                            62,
+                            71
+                        ],
+                        "name": "GDG Paris",
+                        "screen_name": "GDGParis"
+                    },
+                    {
+                        "id": 3878128216,
+                        "id_str": "3878128216",
+                        "indices": [
+                            77,
+                            91
+                        ],
+                        "name": "Diakse",
+                        "screen_name": "Diakse_France"
+                    },
+                    {
+                        "id": 574440519,
+                        "id_str": "574440519",
+                        "indices": [
+                            92,
+                            102
+                        ],
+                        "name": "Milan Boisgard",
+                        "screen_name": "MBoisgard"
+                    },
+                    {
+                        "id": 167377834,
+                        "id_str": "167377834",
+                        "indices": [
+                            106,
+                            115
+                        ],
+                        "name": "gPartner",
+                        "screen_name": "gPartner"
+                    },
+                    {
+                        "id": 92142387,
+                        "id_str": "92142387",
+                        "indices": [
+                            121,
+                            131
+                        ],
+                        "name": "BeMyApp France",
+                        "screen_name": "BeMyAppFR"
                     }
                 ]
             },
             "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 668715201513017344,
-            "id_str": "668715201513017344",
+            "id": 669072718155948032,
+            "id_str": "669072718155948032",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -2771,33 +3098,127 @@
             "lang": "fr",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 4,
+            "retweet_count": 10,
             "retweeted": false,
             "retweeted_status": {
                 "contributors": null,
                 "coordinates": null,
-                "created_at": "Mon Nov 23 08:55:27 +0000 2015",
+                "created_at": "Mon Nov 23 09:20:45 +0000 2015",
                 "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "urls": [
+                    "hashtags": [
                         {
-                            "display_url": "bit.ly/stpvfr",
-                            "expanded_url": "http://bit.ly/stpvfr",
                             "indices": [
-                                99,
-                                122
+                                20,
+                                23
                             ],
-                            "url": "https://t.co/ekShMqemRP"
+                            "text": "VR"
+                        },
+                        {
+                            "indices": [
+                                28,
+                                41
+                            ],
+                            "text": "ParisGlassUG"
                         }
                     ],
-                    "user_mentions": []
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/XeXs9cP9zY",
+                            "expanded_url": "http://twitter.com/GlassFrance/status/668720832823324672/photo/1",
+                            "id": 668720770479169540,
+                            "id_str": "668720770479169540",
+                            "indices": [
+                                115,
+                                138
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/CUfF_2pWIAQ7c_m.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/CUfF_2pWIAQ7c_m.jpg",
+                            "sizes": {
+                                "large": {
+                                    "h": 576,
+                                    "resize": "fit",
+                                    "w": 1024
+                                },
+                                "medium": {
+                                    "h": 337,
+                                    "resize": "fit",
+                                    "w": 600
+                                },
+                                "small": {
+                                    "h": 191,
+                                    "resize": "fit",
+                                    "w": 340
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/XeXs9cP9zY"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id": 70643496,
+                            "id_str": "70643496",
+                            "indices": [
+                                45,
+                                54
+                            ],
+                            "name": "GDG Paris",
+                            "screen_name": "GDGParis"
+                        },
+                        {
+                            "id": 3878128216,
+                            "id_str": "3878128216",
+                            "indices": [
+                                60,
+                                74
+                            ],
+                            "name": "Diakse",
+                            "screen_name": "Diakse_France"
+                        },
+                        {
+                            "id": 574440519,
+                            "id_str": "574440519",
+                            "indices": [
+                                75,
+                                85
+                            ],
+                            "name": "Milan Boisgard",
+                            "screen_name": "MBoisgard"
+                        },
+                        {
+                            "id": 167377834,
+                            "id_str": "167377834",
+                            "indices": [
+                                89,
+                                98
+                            ],
+                            "name": "gPartner",
+                            "screen_name": "gPartner"
+                        },
+                        {
+                            "id": 92142387,
+                            "id_str": "92142387",
+                            "indices": [
+                                104,
+                                114
+                            ],
+                            "name": "BeMyApp France",
+                            "screen_name": "BeMyAppFR"
+                        }
+                    ]
                 },
-                "favorite_count": 1,
+                "favorite_count": 3,
                 "favorited": false,
                 "geo": null,
-                "id": 668714468063490048,
-                "id_str": "668714468063490048",
+                "id": 668720832823324672,
+                "id_str": "668720832823324672",
                 "in_reply_to_screen_name": null,
                 "in_reply_to_status_id": null,
                 "in_reply_to_status_id_str": null,
@@ -2806,17 +3227,17 @@
                 "lang": "fr",
                 "place": null,
                 "possibly_sensitive": false,
-                "retweet_count": 4,
+                "retweet_count": 10,
                 "retweeted": false,
-                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-                "text": "vous proposez des services ou produits utiles pour les Startups? inscrivez-les sur StartupVillage! https://t.co/ekShMqemRP",
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "text": "soir\u00e9e cardboard et #VR des #ParisGlassUG et @GDGParis avec @Diakse_France @MBoisgard et @gPartner chez @BeMyAppFR https://t.co/XeXs9cP9zY",
                 "truncated": false
             },
             "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "text": "RT @startupvillage: vous proposez des services ou produits utiles pour les Startups? inscrivez-les sur StartupVillage! https://t.co/ekShMqe\u2026",
+            "text": "RT @GlassFrance: soir\u00e9e cardboard et #VR des #ParisGlassUG et @GDGParis avec @Diakse_France @MBoisgard et @gPartner chez @BeMyAppFR https:/\u2026",
             "truncated": false
         },
-        "statuses_count": 5001,
+        "statuses_count": 5002,
         "time_zone": "Paris",
         "url": "http://t.co/hQQAp1TmJx",
         "utc_offset": 3600,
@@ -2848,7 +3269,7 @@
         },
         "favourites_count": 502,
         "follow_request_sent": false,
-        "followers_count": 21834,
+        "followers_count": 21838,
         "following": true,
         "friends_count": 3205,
         "geo_enabled": true,
@@ -2858,7 +3279,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "fr",
-        "listed_count": 1183,
+        "listed_count": 1185,
         "location": "128.0.0.1",
         "name": "Fabrice Epelboin",
         "notifications": false,
@@ -2879,134 +3300,43 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 11:46:18 +0000 2015",
+            "created_at": "Tue Nov 24 14:55:50 +0000 2015",
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "urls": [
                     {
-                        "display_url": "twitter.com/FlashTweet/sta\u2026",
-                        "expanded_url": "https://twitter.com/FlashTweet/status/668691113998438400",
+                        "display_url": "arstechnica.co.uk/tech-policy/20\u2026",
+                        "expanded_url": "http://arstechnica.co.uk/tech-policy/2015/11/terrorist-attacks-mass-surveillance-is-the-problem-not-the-solution/",
                         "indices": [
-                            90,
-                            113
+                            70,
+                            93
                         ],
-                        "url": "https://t.co/JfvY9NVQSp"
+                        "url": "https://t.co/yIAIlL57zn"
                     }
                 ],
-                "user_mentions": [
-                    {
-                        "id": 1307861905,
-                        "id_str": "1307861905",
-                        "indices": [
-                            3,
-                            17
-                        ],
-                        "name": "joffre",
-                        "screen_name": "jerome_joffre"
-                    },
-                    {
-                        "id": 946507549,
-                        "id_str": "946507549",
-                        "indices": [
-                            37,
-                            49
-                        ],
-                        "name": "Alban Jarry \u270f",
-                        "screen_name": "Alban_Jarry"
-                    },
-                    {
-                        "id": 115065053,
-                        "id_str": "115065053",
-                        "indices": [
-                            59,
-                            70
-                        ],
-                        "name": "Emmanuelle Leneuf\u26a1\ufe0f",
-                        "screen_name": "FlashTweet"
-                    }
-                ]
+                "user_mentions": []
             },
-            "favorite_count": 0,
+            "favorite_count": 5,
             "favorited": false,
             "geo": null,
-            "id": 668757460837117952,
-            "id_str": "668757460837117952",
+            "id": 669167546722074624,
+            "id_str": "669167546722074624",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
-            "lang": "fr",
+            "lang": "en",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 2,
+            "retweet_count": 13,
             "retweeted": false,
-            "retweeted_status": {
-                "contributors": null,
-                "coordinates": null,
-                "created_at": "Mon Nov 23 07:44:57 +0000 2015",
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "urls": [
-                        {
-                            "display_url": "twitter.com/FlashTweet/sta\u2026",
-                            "expanded_url": "https://twitter.com/FlashTweet/status/668691113998438400",
-                            "indices": [
-                                71,
-                                94
-                            ],
-                            "url": "https://t.co/JfvY9NVQSp"
-                        }
-                    ],
-                    "user_mentions": [
-                        {
-                            "id": 946507549,
-                            "id_str": "946507549",
-                            "indices": [
-                                18,
-                                30
-                            ],
-                            "name": "Alban Jarry \u270f",
-                            "screen_name": "Alban_Jarry"
-                        },
-                        {
-                            "id": 115065053,
-                            "id_str": "115065053",
-                            "indices": [
-                                40,
-                                51
-                            ],
-                            "name": "Emmanuelle Leneuf\u26a1\ufe0f",
-                            "screen_name": "FlashTweet"
-                        }
-                    ]
-                },
-                "favorite_count": 3,
-                "favorited": false,
-                "geo": null,
-                "id": 668696724400160768,
-                "id_str": "668696724400160768",
-                "in_reply_to_screen_name": null,
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "lang": "fr",
-                "place": null,
-                "possibly_sensitive": false,
-                "retweet_count": 2,
-                "retweeted": false,
-                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-                "text": "Excellent travail @Alban_Jarry !! Merci @FlashTweet pour le partage :) https://t.co/JfvY9NVQSp",
-                "truncated": false
-            },
-            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-            "text": "RT @jerome_joffre: Excellent travail @Alban_Jarry !! Merci @FlashTweet pour le partage :) https://t.co/JfvY9NVQSp",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Terrorist attacks: Mass surveillance is the problem, not the solution https://t.co/yIAIlL57zn",
             "truncated": false
         },
-        "statuses_count": 35362,
+        "statuses_count": 35372,
         "time_zone": "Brussels",
         "url": "http://t.co/jZ3AELKElm",
         "utc_offset": 3600,
@@ -3036,7 +3366,7 @@
                 ]
             }
         },
-        "favourites_count": 4990,
+        "favourites_count": 4993,
         "follow_request_sent": false,
         "followers_count": 3773,
         "following": true,
@@ -3069,71 +3399,43 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 16:41:30 +0000 2015",
+            "created_at": "Tue Nov 24 09:25:44 +0000 2015",
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "urls": [],
                 "user_mentions": [
                     {
-                        "id": 79543,
-                        "id_str": "79543",
+                        "id": 36226695,
+                        "id_str": "36226695",
                         "indices": [
-                            3,
-                            11
+                            0,
+                            13
                         ],
-                        "name": "Jeremiah Owyang",
-                        "screen_name": "jowyang"
+                        "name": "Martin Mignot",
+                        "screen_name": "martinmignot"
                     }
                 ]
             },
             "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 668831750320181248,
-            "id_str": "668831750320181248",
-            "in_reply_to_screen_name": null,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
+            "id": 669084476723490817,
+            "id_str": "669084476723490817",
+            "in_reply_to_screen_name": "martinmignot",
+            "in_reply_to_status_id": 669081455763578881,
+            "in_reply_to_status_id_str": "669081455763578881",
+            "in_reply_to_user_id": 36226695,
+            "in_reply_to_user_id_str": "36226695",
             "lang": "en",
             "place": null,
-            "retweet_count": 6,
+            "retweet_count": 0,
             "retweeted": false,
-            "retweeted_status": {
-                "contributors": null,
-                "coordinates": null,
-                "created_at": "Mon Nov 23 16:39:40 +0000 2015",
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "urls": [],
-                    "user_mentions": []
-                },
-                "favorite_count": 7,
-                "favorited": false,
-                "geo": null,
-                "id": 668831290985082880,
-                "id_str": "668831290985082880",
-                "in_reply_to_screen_name": null,
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "lang": "en",
-                "place": null,
-                "retweet_count": 6,
-                "retweeted": false,
-                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-                "text": "The Platform Cooperatives want to use a Blockchain like technology, so workers and buyers can cut out the middle-person (Uber/Airbnb)",
-                "truncated": false
-            },
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "text": "RT @jowyang: The Platform Cooperatives want to use a Blockchain like technology, so workers and buyers can cut out the middle-person (Uber/\u2026",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "@martinmignot yes. i wanted to add and it is difficult because repeat is high. but no room in the tweet. Seriously congrats!",
             "truncated": false
         },
-        "statuses_count": 17089,
+        "statuses_count": 17091,
         "time_zone": "Paris",
         "url": "http://t.co/eaXYKNa7Yd",
         "utc_offset": 3600,
@@ -3195,36 +3497,43 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Fri Nov 20 10:47:13 +0000 2015",
+            "created_at": "Tue Nov 24 17:48:29 +0000 2015",
             "entities": {
                 "hashtags": [
                     {
                         "indices": [
-                            16,
-                            29
+                            41,
+                            52
                         ],
-                        "text": "Crowdfunding"
+                        "text": "BlueAwards"
+                    },
+                    {
+                        "indices": [
+                            79,
+                            90
+                        ],
+                        "text": "BlueAwards"
                     }
                 ],
                 "symbols": [],
-                "urls": [
-                    {
-                        "display_url": "bit.ly/1323pr\u00eateurs",
-                        "expanded_url": "http://bit.ly/1323pr\u00eateurs",
-                        "indices": [
-                            139,
-                            140
-                        ],
-                        "url": "https://t.co/dlKxrqTI3k"
-                    }
-                ],
+                "urls": [],
                 "user_mentions": [
+                    {
+                        "id": 2306979158,
+                        "id_str": "2306979158",
+                        "indices": [
+                            3,
+                            14
+                        ],
+                        "name": "Blue Awards",
+                        "screen_name": "blueawards"
+                    },
                     {
                         "id": 1225403617,
                         "id_str": "1225403617",
                         "indices": [
-                            3,
-                            14
+                            16,
+                            27
                         ],
                         "name": "Unilend",
                         "screen_name": "unilend_fr"
@@ -3234,8 +3543,8 @@
             "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 667655430496194560,
-            "id_str": "667655430496194560",
+            "id": 669210997861826560,
+            "id_str": "669210997861826560",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -3243,61 +3552,67 @@
             "in_reply_to_user_id_str": null,
             "lang": "fr",
             "place": null,
-            "possibly_sensitive": false,
-            "retweet_count": 12,
+            "retweet_count": 4,
             "retweeted": false,
             "retweeted_status": {
                 "contributors": null,
                 "coordinates": null,
-                "created_at": "Thu Nov 19 15:16:07 +0000 2015",
+                "created_at": "Tue Nov 24 17:34:07 +0000 2015",
                 "entities": {
                     "hashtags": [
                         {
                             "indices": [
-                                0,
-                                13
+                                25,
+                                36
                             ],
-                            "text": "Crowdfunding"
+                            "text": "BlueAwards"
+                        },
+                        {
+                            "indices": [
+                                63,
+                                74
+                            ],
+                            "text": "BlueAwards"
                         }
                     ],
                     "symbols": [],
-                    "urls": [
+                    "urls": [],
+                    "user_mentions": [
                         {
-                            "display_url": "bit.ly/1323pr\u00eateurs",
-                            "expanded_url": "http://bit.ly/1323pr\u00eateurs",
+                            "id": 1225403617,
+                            "id_str": "1225403617",
                             "indices": [
-                                117,
-                                140
+                                0,
+                                11
                             ],
-                            "url": "https://t.co/dlKxrqTI3k"
+                            "name": "Unilend",
+                            "screen_name": "unilend_fr"
                         }
-                    ],
-                    "user_mentions": []
+                    ]
                 },
-                "favorite_count": 2,
+                "favorite_count": 1,
                 "favorited": false,
                 "geo": null,
-                "id": 667360713975980032,
-                "id_str": "667360713975980032",
-                "in_reply_to_screen_name": null,
+                "id": 669207380404674561,
+                "id_str": "669207380404674561",
+                "in_reply_to_screen_name": "unilend_fr",
                 "in_reply_to_status_id": null,
                 "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
+                "in_reply_to_user_id": 1225403617,
+                "in_reply_to_user_id_str": "1225403617",
                 "lang": "fr",
                 "place": null,
-                "possibly_sensitive": false,
-                "retweet_count": 12,
+                "retweet_count": 4,
                 "retweeted": false,
                 "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-                "text": "#Crowdfunding : Unilend bat le record fran\u00e7ais du nombre de pr\u00eateurs par projet.\nLisez le communiqu\u00e9 de presse ici : https://t.co/dlKxrqTI3k",
+                "text": "@unilend_fr Laur\u00e9at Baby #BlueAwards en 2014 et Laur\u00e9at Mentor #BlueAwards en 2015! Bravo",
                 "truncated": false
             },
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "text": "RT @unilend_fr: #Crowdfunding : Unilend bat le record fran\u00e7ais du nombre de pr\u00eateurs par projet.\nLisez le communiqu\u00e9 de presse ici : https:\u2026",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @blueawards: @unilend_fr Laur\u00e9at Baby #BlueAwards en 2014 et Laur\u00e9at Mentor #BlueAwards en 2015! Bravo",
             "truncated": false
         },
-        "statuses_count": 512,
+        "statuses_count": 518,
         "time_zone": "Paris",
         "url": "http://t.co/Ir65AKeJoM",
         "utc_offset": 3600,
@@ -3339,7 +3654,7 @@
         },
         "favourites_count": 1231,
         "follow_request_sent": false,
-        "followers_count": 1178,
+        "followers_count": 1179,
         "following": true,
         "friends_count": 1233,
         "geo_enabled": true,
@@ -3451,7 +3766,7 @@
             "lang": "fr",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 741,
+            "retweet_count": 748,
             "retweeted": false,
             "retweeted_status": {
                 "contributors": null,
@@ -3509,7 +3824,7 @@
                     "urls": [],
                     "user_mentions": []
                 },
-                "favorite_count": 245,
+                "favorite_count": 247,
                 "favorited": false,
                 "geo": null,
                 "id": 667329764340989952,
@@ -3522,7 +3837,7 @@
                 "lang": "fr",
                 "place": null,
                 "possibly_sensitive": false,
-                "retweet_count": 741,
+                "retweet_count": 748,
                 "retweeted": false,
                 "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
                 "text": "Les mesures d'exception sont toujours d\u00e9finitives. On ne revient jamais en arri\u00e8re. #Vigipirate https://t.co/0mGMsAt5yD",
@@ -3562,11 +3877,11 @@
                 ]
             }
         },
-        "favourites_count": 9282,
+        "favourites_count": 9297,
         "follow_request_sent": false,
-        "followers_count": 10625,
+        "followers_count": 10633,
         "following": true,
-        "friends_count": 1227,
+        "friends_count": 1228,
         "geo_enabled": true,
         "has_extended_profile": false,
         "id": 3639301,
@@ -3574,7 +3889,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 596,
+        "listed_count": 597,
         "location": "Paris",
         "name": "PEG",
         "notifications": false,
@@ -3595,153 +3910,43 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 18:04:54 +0000 2015",
+            "created_at": "Tue Nov 24 18:30:39 +0000 2015",
             "entities": {
                 "hashtags": [],
-                "media": [
-                    {
-                        "display_url": "pic.twitter.com/lYeBZh6bSt",
-                        "expanded_url": "http://twitter.com/ayyyvocado/status/668768010912534528/photo/1",
-                        "id": 668768001781538816,
-                        "id_str": "668768001781538816",
-                        "indices": [
-                            113,
-                            136
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/CUfw9E9WIAAWSFM.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CUfw9E9WIAAWSFM.jpg",
-                        "sizes": {
-                            "large": {
-                                "h": 1024,
-                                "resize": "fit",
-                                "w": 768
-                            },
-                            "medium": {
-                                "h": 800,
-                                "resize": "fit",
-                                "w": 600
-                            },
-                            "small": {
-                                "h": 453,
-                                "resize": "fit",
-                                "w": 340
-                            },
-                            "thumb": {
-                                "h": 150,
-                                "resize": "crop",
-                                "w": 150
-                            }
-                        },
-                        "source_status_id": 668768010912534528,
-                        "source_status_id_str": "668768010912534528",
-                        "source_user_id": 450847572,
-                        "source_user_id_str": "450847572",
-                        "type": "photo",
-                        "url": "https://t.co/lYeBZh6bSt"
-                    }
-                ],
                 "symbols": [],
                 "urls": [],
                 "user_mentions": [
                     {
-                        "id": 450847572,
-                        "id_str": "450847572",
+                        "id": 16353245,
+                        "id_str": "16353245",
                         "indices": [
-                            3,
-                            14
+                            0,
+                            15
                         ],
-                        "name": "Kink in the North",
-                        "screen_name": "ayyyvocado"
+                        "name": "Megan McArdle",
+                        "screen_name": "asymmetricinfo"
                     }
                 ]
             },
             "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 668852739728908289,
-            "id_str": "668852739728908289",
-            "in_reply_to_screen_name": null,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "lang": "fr",
+            "id": 669221606317780992,
+            "id_str": "669221606317780992",
+            "in_reply_to_screen_name": "asymmetricinfo",
+            "in_reply_to_status_id": 669221398427148288,
+            "in_reply_to_status_id_str": "669221398427148288",
+            "in_reply_to_user_id": 16353245,
+            "in_reply_to_user_id_str": "16353245",
+            "lang": "en",
             "place": null,
-            "possibly_sensitive": false,
-            "retweet_count": 529,
+            "retweet_count": 0,
             "retweeted": false,
-            "retweeted_status": {
-                "contributors": null,
-                "coordinates": null,
-                "created_at": "Mon Nov 23 12:28:13 +0000 2015",
-                "entities": {
-                    "hashtags": [],
-                    "media": [
-                        {
-                            "display_url": "pic.twitter.com/lYeBZh6bSt",
-                            "expanded_url": "http://twitter.com/ayyyvocado/status/668768010912534528/photo/1",
-                            "id": 668768001781538816,
-                            "id_str": "668768001781538816",
-                            "indices": [
-                                97,
-                                120
-                            ],
-                            "media_url": "http://pbs.twimg.com/media/CUfw9E9WIAAWSFM.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/CUfw9E9WIAAWSFM.jpg",
-                            "sizes": {
-                                "large": {
-                                    "h": 1024,
-                                    "resize": "fit",
-                                    "w": 768
-                                },
-                                "medium": {
-                                    "h": 800,
-                                    "resize": "fit",
-                                    "w": 600
-                                },
-                                "small": {
-                                    "h": 453,
-                                    "resize": "fit",
-                                    "w": 340
-                                },
-                                "thumb": {
-                                    "h": 150,
-                                    "resize": "crop",
-                                    "w": 150
-                                }
-                            },
-                            "type": "photo",
-                            "url": "https://t.co/lYeBZh6bSt"
-                        }
-                    ],
-                    "symbols": [],
-                    "urls": [],
-                    "user_mentions": []
-                },
-                "favorite_count": 474,
-                "favorited": false,
-                "geo": null,
-                "id": 668768010912534528,
-                "id_str": "668768010912534528",
-                "in_reply_to_screen_name": null,
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "lang": "fr",
-                "place": null,
-                "possibly_sensitive": false,
-                "retweet_count": 529,
-                "retweeted": false,
-                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-                "text": "Donc voici ce qui est coll\u00e9 sur le casier d'une coll\u00e8gue d'anglais, je viens d'avoir un fou-rire https://t.co/lYeBZh6bSt",
-                "truncated": false
-            },
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "text": "RT @ayyyvocado: Donc voici ce qui est coll\u00e9 sur le casier d'une coll\u00e8gue d'anglais, je viens d'avoir un fou-rire https://t.co/lYeBZh6bSt",
+            "text": "@asymmetricinfo I don't even know whether my oven can fit a whole turkey.",
             "truncated": false
         },
-        "statuses_count": 269954,
+        "statuses_count": 270020,
         "time_zone": "Paris",
         "url": "http://t.co/qoTFHS5M4L",
         "utc_offset": 3600,
@@ -3773,7 +3978,7 @@
         },
         "favourites_count": 0,
         "follow_request_sent": false,
-        "followers_count": 2810,
+        "followers_count": 2813,
         "following": true,
         "friends_count": 474,
         "geo_enabled": false,
@@ -3902,9 +4107,9 @@
         },
         "favourites_count": 49,
         "follow_request_sent": false,
-        "followers_count": 4197,
+        "followers_count": 4199,
         "following": true,
-        "friends_count": 1276,
+        "friends_count": 1277,
         "geo_enabled": true,
         "has_extended_profile": false,
         "id": 9348582,
@@ -4011,7 +4216,7 @@
         },
         "favourites_count": 23,
         "follow_request_sent": false,
-        "followers_count": 75089,
+        "followers_count": 75113,
         "following": true,
         "friends_count": 2735,
         "geo_enabled": false,
@@ -4021,7 +4226,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 2357,
+        "listed_count": 2358,
         "location": "",
         "name": "Startup Digest",
         "notifications": false,
@@ -4042,13 +4247,13 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Thu Nov 19 17:59:56 +0000 2015",
+            "created_at": "Tue Nov 24 17:55:15 +0000 2015",
             "entities": {
                 "hashtags": [
                     {
                         "indices": [
-                            108,
-                            116
+                            28,
+                            36
                         ],
                         "text": "GSB2015"
                     }
@@ -4059,39 +4264,19 @@
                         "display_url": "go.up.co/gsb-open",
                         "expanded_url": "http://go.up.co/gsb-open",
                         "indices": [
-                            84,
-                            107
+                            112,
+                            135
                         ],
                         "url": "https://t.co/Qw49NT977L"
-                    },
-                    {
-                        "display_url": "ow.ly/i/eB7U5",
-                        "expanded_url": "http://ow.ly/i/eB7U5",
-                        "indices": [
-                            117,
-                            140
-                        ],
-                        "url": "https://t.co/CLaL93fHZt"
                     }
                 ],
-                "user_mentions": [
-                    {
-                        "id": 202172866,
-                        "id_str": "202172866",
-                        "indices": [
-                            40,
-                            54
-                        ],
-                        "name": "GlobalStartupBattle",
-                        "screen_name": "StartupBattle"
-                    }
-                ]
+                "user_mentions": []
             },
-            "favorite_count": 5,
+            "favorite_count": 1,
             "favorited": false,
             "geo": null,
-            "id": 667401938380697600,
-            "id_str": "667401938380697600",
+            "id": 669212698106834944,
+            "id_str": "669212698106834944",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -4100,13 +4285,13 @@
             "lang": "en",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 4,
+            "retweet_count": 3,
             "retweeted": false,
             "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-            "text": "Calling all startups! Now you can be in @StartupBattle! Submit your pitch by 11/24: https://t.co/Qw49NT977L #GSB2015 https://t.co/CLaL93fHZt",
+            "text": "Last call for Open Track in #GSB2015! Enter your startup (no matter where you started!) by 11:59pm PST tonight: https://t.co/Qw49NT977L",
             "truncated": false
         },
-        "statuses_count": 11675,
+        "statuses_count": 11676,
         "time_zone": "Pacific Time (US & Canada)",
         "url": "https://t.co/p0gnx8W7Bk",
         "utc_offset": -28800,
@@ -4138,9 +4323,9 @@
         },
         "favourites_count": 1,
         "follow_request_sent": false,
-        "followers_count": 35379,
+        "followers_count": 35442,
         "following": true,
-        "friends_count": 10405,
+        "friends_count": 10837,
         "geo_enabled": false,
         "has_extended_profile": false,
         "id": 200563270,
@@ -4148,7 +4333,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 712,
+        "listed_count": 713,
         "location": "France",
         "name": "Startup Village",
         "notifications": false,
@@ -4186,7 +4371,7 @@
                 ],
                 "user_mentions": []
             },
-            "favorite_count": 1,
+            "favorite_count": 2,
             "favorited": false,
             "geo": null,
             "id": 668714468063490048,
@@ -4199,7 +4384,7 @@
             "lang": "fr",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 4,
+            "retweet_count": 5,
             "retweeted": false,
             "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
             "text": "vous proposez des services ou produits utiles pour les Startups? inscrivez-les sur StartupVillage! https://t.co/ekShMqemRP",
@@ -4237,7 +4422,7 @@
         },
         "favourites_count": 2,
         "follow_request_sent": false,
-        "followers_count": 5074,
+        "followers_count": 5075,
         "following": true,
         "friends_count": 240,
         "geo_enabled": true,
@@ -4267,39 +4452,49 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 11:30:56 +0000 2015",
+            "created_at": "Tue Nov 24 07:19:06 +0000 2015",
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "urls": [
                     {
-                        "display_url": "sco.lt/9JUdc1",
-                        "expanded_url": "http://sco.lt/9JUdc1",
+                        "display_url": "paper.li/_France_Startu\u2026",
+                        "expanded_url": "http://paper.li/_France_Startup?edition_id=a4a5cc30-927b-11e5-915c-0cc47a0d1609",
                         "indices": [
-                            43,
-                            66
+                            35,
+                            58
                         ],
-                        "url": "https://t.co/rkzZIwptpE"
+                        "url": "https://t.co/KWKlrGlFDe"
                     }
                 ],
                 "user_mentions": [
                     {
-                        "id": 209484168,
-                        "id_str": "209484168",
+                        "id": 137935993,
+                        "id_str": "137935993",
                         "indices": [
-                            34,
-                            42
+                            71,
+                            86
                         ],
-                        "name": "Scoop.it",
-                        "screen_name": "scoopit"
+                        "name": "France Clusters",
+                        "screen_name": "FranceClusters"
+                    },
+                    {
+                        "id": 493861735,
+                        "id_str": "493861735",
+                        "indices": [
+                            87,
+                            103
+                        ],
+                        "name": "CCI Nord de France",
+                        "screen_name": "CCIR_NordFrance"
                     }
                 ]
             },
             "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 668753595161026560,
-            "id_str": "668753595161026560",
+            "id": 669052605050576896,
+            "id_str": "669052605050576896",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -4308,13 +4503,13 @@
             "lang": "en",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 1,
+            "retweet_count": 0,
             "retweeted": false,
-            "source": "<a href=\"http://www.scoop.it\" rel=\"nofollow\">Scoop.it</a>",
-            "text": "France, The New Startup Factory | @scoopit https://t.co/rkzZIwptpE",
+            "source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+            "text": "France Startup, le Journal is out! https://t.co/KWKlrGlFDe Stories via @FranceClusters @CCIR_NordFrance",
             "truncated": false
         },
-        "statuses_count": 4201,
+        "statuses_count": 4202,
         "time_zone": "Paris",
         "url": "http://t.co/R8laqN1cTZ",
         "utc_offset": 3600,
@@ -4346,7 +4541,7 @@
         },
         "favourites_count": 3,
         "follow_request_sent": false,
-        "followers_count": 5469,
+        "followers_count": 5467,
         "following": true,
         "friends_count": 5,
         "geo_enabled": false,
@@ -4456,9 +4651,9 @@
         },
         "favourites_count": 6,
         "follow_request_sent": false,
-        "followers_count": 2854,
+        "followers_count": 2861,
         "following": true,
-        "friends_count": 852,
+        "friends_count": 854,
         "geo_enabled": false,
         "has_extended_profile": false,
         "id": 110792411,
@@ -4466,7 +4661,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "fr",
-        "listed_count": 266,
+        "listed_count": 269,
         "location": "",
         "name": "j'aime les startups",
         "notifications": false,
@@ -4486,7 +4681,7 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 12:21:03 +0000 2015",
+            "created_at": "Tue Nov 24 11:09:37 +0000 2015",
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -4495,34 +4690,45 @@
                         "display_url": "jaimelesstartups.fr",
                         "expanded_url": "http://www.jaimelesstartups.fr",
                         "indices": [
-                            59,
-                            82
+                            56,
+                            79
                         ],
                         "url": "https://t.co/kEhBeq3poo"
                     }
                 ],
-                "user_mentions": []
+                "user_mentions": [
+                    {
+                        "id": 2792873385,
+                        "id_str": "2792873385",
+                        "indices": [
+                            0,
+                            13
+                        ],
+                        "name": "Deal-Trotter",
+                        "screen_name": "Deal_Trotter"
+                    }
+                ]
             },
-            "favorite_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "geo": null,
-            "id": 668766205986086912,
-            "id_str": "668766205986086912",
-            "in_reply_to_screen_name": null,
+            "id": 669110618587312128,
+            "id_str": "669110618587312128",
+            "in_reply_to_screen_name": "Deal_Trotter",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
+            "in_reply_to_user_id": 2792873385,
+            "in_reply_to_user_id_str": "2792873385",
             "lang": "fr",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 0,
+            "retweet_count": 1,
             "retweeted": false,
             "source": "<a href=\"http://www.jaimelesstartups.fr\" rel=\"nofollow\">Tweet when new post</a>",
-            "text": "@latelier_mobile ! On te souhaite une excellente journ\u00e9e : https://t.co/kEhBeq3poo ;)",
+            "text": "@Deal_Trotter ! On te souhaite une excellente journ\u00e9e : https://t.co/kEhBeq3poo ;)",
             "truncated": false
         },
-        "statuses_count": 3117,
+        "statuses_count": 3122,
         "time_zone": null,
         "url": "http://t.co/kDlefzv07G",
         "utc_offset": null,
@@ -4554,7 +4760,7 @@
         },
         "favourites_count": 1089,
         "follow_request_sent": false,
-        "followers_count": 1262,
+        "followers_count": 1261,
         "following": true,
         "friends_count": 1271,
         "geo_enabled": true,
@@ -4585,80 +4791,36 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Tue Nov 24 01:30:28 +0000 2015",
+            "created_at": "Tue Nov 24 16:28:43 +0000 2015",
             "entities": {
-                "hashtags": [],
-                "media": [
+                "hashtags": [
                     {
-                        "display_url": "pic.twitter.com/SVkj1Y6eVz",
-                        "expanded_url": "http://twitter.com/AXPolytechnique/status/668908302604988416/photo/1",
-                        "id": 668908295059451904,
-                        "id_str": "668908295059451904",
                         "indices": [
-                            139,
-                            140
+                            47,
+                            62
                         ],
-                        "media_url": "http://pbs.twimg.com/media/CUhwjOJUsAAwmhO.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/CUhwjOJUsAAwmhO.jpg",
-                        "sizes": {
-                            "large": {
-                                "h": 454,
-                                "resize": "fit",
-                                "w": 794
-                            },
-                            "medium": {
-                                "h": 343,
-                                "resize": "fit",
-                                "w": 600
-                            },
-                            "small": {
-                                "h": 194,
-                                "resize": "fit",
-                                "w": 340
-                            },
-                            "thumb": {
-                                "h": 150,
-                                "resize": "crop",
-                                "w": 150
-                            }
-                        },
-                        "source_status_id": 668908302604988416,
-                        "source_status_id_str": "668908302604988416",
-                        "source_user_id": 1545412231,
-                        "source_user_id_str": "1545412231",
-                        "type": "photo",
-                        "url": "https://t.co/SVkj1Y6eVz"
+                        "text": "Startupweekend"
                     }
                 ],
                 "symbols": [],
                 "urls": [
                     {
-                        "display_url": "evn.im/gJAg2",
-                        "expanded_url": "http://evn.im/gJAg2",
+                        "display_url": "goo.gl/ko8CNM",
+                        "expanded_url": "https://goo.gl/ko8CNM",
                         "indices": [
-                            114,
-                            137
+                            111,
+                            134
                         ],
-                        "url": "https://t.co/C8fjFnIjFL"
+                        "url": "https://t.co/CzrHceZ6Gq"
                     }
                 ],
                 "user_mentions": [
                     {
-                        "id": 1545412231,
-                        "id_str": "1545412231",
-                        "indices": [
-                            3,
-                            19
-                        ],
-                        "name": "AX",
-                        "screen_name": "AXPolytechnique"
-                    },
-                    {
                         "id": 278022309,
                         "id_str": "278022309",
                         "indices": [
-                            31,
-                            45
+                            63,
+                            77
                         ],
                         "name": "\u00c9cole polytechnique",
                         "screen_name": "Polytechnique"
@@ -4668,111 +4830,56 @@
             "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 668964871510302720,
-            "id_str": "668964871510302720",
+            "id": 669190923037863936,
+            "id_str": "669190923037863936",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
             "lang": "fr",
-            "place": null,
+            "place": {
+                "attributes": {},
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                2.2241006,
+                                48.8155214
+                            ],
+                            [
+                                2.4699053,
+                                48.8155214
+                            ],
+                            [
+                                2.4699053,
+                                48.9021461
+                            ],
+                            [
+                                2.2241006,
+                                48.9021461
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "contained_within": [],
+                "country": "France",
+                "country_code": "FR",
+                "full_name": "Paris, Ile-de-France",
+                "id": "09f6a7707f18e0b1",
+                "name": "Paris",
+                "place_type": "city",
+                "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+            },
             "possibly_sensitive": false,
             "retweet_count": 1,
             "retweeted": false,
-            "retweeted_status": {
-                "contributors": null,
-                "coordinates": null,
-                "created_at": "Mon Nov 23 21:45:41 +0000 2015",
-                "entities": {
-                    "hashtags": [],
-                    "media": [
-                        {
-                            "display_url": "pic.twitter.com/SVkj1Y6eVz",
-                            "expanded_url": "http://twitter.com/AXPolytechnique/status/668908302604988416/photo/1",
-                            "id": 668908295059451904,
-                            "id_str": "668908295059451904",
-                            "indices": [
-                                117,
-                                140
-                            ],
-                            "media_url": "http://pbs.twimg.com/media/CUhwjOJUsAAwmhO.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/CUhwjOJUsAAwmhO.jpg",
-                            "sizes": {
-                                "large": {
-                                    "h": 454,
-                                    "resize": "fit",
-                                    "w": 794
-                                },
-                                "medium": {
-                                    "h": 343,
-                                    "resize": "fit",
-                                    "w": 600
-                                },
-                                "small": {
-                                    "h": 194,
-                                    "resize": "fit",
-                                    "w": 340
-                                },
-                                "thumb": {
-                                    "h": 150,
-                                    "resize": "crop",
-                                    "w": 150
-                                }
-                            },
-                            "type": "photo",
-                            "url": "https://t.co/SVkj1Y6eVz"
-                        }
-                    ],
-                    "symbols": [],
-                    "urls": [
-                        {
-                            "display_url": "evn.im/gJAg2",
-                            "expanded_url": "http://evn.im/gJAg2",
-                            "indices": [
-                                93,
-                                116
-                            ],
-                            "url": "https://t.co/C8fjFnIjFL"
-                        }
-                    ],
-                    "user_mentions": [
-                        {
-                            "id": 278022309,
-                            "id_str": "278022309",
-                            "indices": [
-                                10,
-                                24
-                            ],
-                            "name": "\u00c9cole polytechnique",
-                            "screen_name": "Polytechnique"
-                        }
-                    ]
-                },
-                "favorite_count": 0,
-                "favorited": false,
-                "geo": null,
-                "id": 668908302604988416,
-                "id_str": "668908302604988416",
-                "in_reply_to_screen_name": null,
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "lang": "fr",
-                "place": null,
-                "possibly_sensitive": false,
-                "retweet_count": 1,
-                "retweeted": false,
-                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-                "text": "\u00c9tudiants @Polytechnique: participez au colloque \"Imaginer, Partager, Oser\" Insc aupr\u00e8s Zaza https://t.co/C8fjFnIjFL https://t.co/SVkj1Y6eVz",
-                "truncated": false
-            },
-            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-            "text": "RT @AXPolytechnique: \u00c9tudiants @Polytechnique: participez au colloque \"Imaginer, Partager, Oser\" Insc aupr\u00e8s Zaza https://t.co/C8fjFnIjFL h\u2026",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Un jour, un mentor | #1 Solange Arnaud sera au #Startupweekend @Polytechnique D\u00e9p\u00eachez-vous de vous inscrire ! https://t.co/CzrHceZ6Gq #",
             "truncated": false
         },
-        "statuses_count": 2357,
+        "statuses_count": 2360,
         "time_zone": "Paris",
         "url": "http://t.co/DTgx1U0CuY",
         "utc_offset": 3600,
@@ -4907,7 +5014,7 @@
             "lang": "fr",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 1869,
+            "retweet_count": 1928,
             "retweeted": false,
             "retweeted_status": {
                 "contributors": null,
@@ -4957,7 +5064,7 @@
                     "urls": [],
                     "user_mentions": []
                 },
-                "favorite_count": 902,
+                "favorite_count": 931,
                 "favorited": false,
                 "geo": null,
                 "id": 667636703595745280,
@@ -4970,7 +5077,7 @@
                 "lang": "fr",
                 "place": null,
                 "possibly_sensitive": false,
-                "retweet_count": 1869,
+                "retweet_count": 1928,
                 "retweeted": false,
                 "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
                 "text": "\"C'\u00e9tait un voisin paisible, sans histoire, qui aimait jardiner. Je me suis jamais dout\u00e9 de quoi que ce soit...\" https://t.co/jN2ayxCHpv",
@@ -5031,7 +5138,7 @@
         },
         "favourites_count": 258,
         "follow_request_sent": false,
-        "followers_count": 13813,
+        "followers_count": 13818,
         "following": true,
         "friends_count": 1489,
         "geo_enabled": false,
@@ -5062,49 +5169,28 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 21:19:11 +0000 2015",
+            "created_at": "Tue Nov 24 17:11:23 +0000 2015",
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "urls": [
                     {
-                        "display_url": "contrepoints.org/2015/11/23/230\u2026",
-                        "expanded_url": "https://www.contrepoints.org/2015/11/23/230195-apres-les-attentats-quel-pacte-de-securite-pour-la-france",
+                        "display_url": "ow.ly/UYot0",
+                        "expanded_url": "http://ow.ly/UYot0",
                         "indices": [
-                            102,
-                            125
+                            82,
+                            105
                         ],
-                        "url": "https://t.co/JvxAynSv5f"
+                        "url": "https://t.co/YNrIiJ7vyk"
                     }
                 ],
-                "user_mentions": [
-                    {
-                        "id": 3167907188,
-                        "id_str": "3167907188",
-                        "indices": [
-                            3,
-                            15
-                        ],
-                        "name": "Akrouf Chems",
-                        "screen_name": "AkroufChems"
-                    },
-                    {
-                        "id": 123942210,
-                        "id_str": "123942210",
-                        "indices": [
-                            87,
-                            100
-                        ],
-                        "name": "Contrepoints",
-                        "screen_name": "Contrepoints"
-                    }
-                ]
+                "user_mentions": []
             },
             "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 668901631006744577,
-            "id_str": "668901631006744577",
+            "id": 669201659650797568,
+            "id_str": "669201659650797568",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -5113,63 +5199,13 @@
             "lang": "fr",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 1,
+            "retweet_count": 0,
             "retweeted": false,
-            "retweeted_status": {
-                "contributors": null,
-                "coordinates": null,
-                "created_at": "Mon Nov 23 13:13:13 +0000 2015",
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "urls": [
-                        {
-                            "display_url": "contrepoints.org/2015/11/23/230\u2026",
-                            "expanded_url": "https://www.contrepoints.org/2015/11/23/230195-apres-les-attentats-quel-pacte-de-securite-pour-la-france",
-                            "indices": [
-                                85,
-                                108
-                            ],
-                            "url": "https://t.co/JvxAynSv5f"
-                        }
-                    ],
-                    "user_mentions": [
-                        {
-                            "id": 123942210,
-                            "id_str": "123942210",
-                            "indices": [
-                                70,
-                                83
-                            ],
-                            "name": "Contrepoints",
-                            "screen_name": "Contrepoints"
-                        }
-                    ]
-                },
-                "favorite_count": 0,
-                "favorited": false,
-                "geo": null,
-                "id": 668779337030762496,
-                "id_str": "668779337030762496",
-                "in_reply_to_screen_name": null,
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "lang": "fr",
-                "place": null,
-                "possibly_sensitive": false,
-                "retweet_count": 1,
-                "retweeted": false,
-                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-                "text": "Apr\u00e8s les attentats, quel \u00ab\u00a0pacte de s\u00e9curit\u00e9\u00a0\u00bb pour la France ? (via @Contrepoints) https://t.co/JvxAynSv5f",
-                "truncated": false
-            },
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "text": "RT @AkroufChems: Apr\u00e8s les attentats, quel \u00ab\u00a0pacte de s\u00e9curit\u00e9\u00a0\u00bb pour la France ? (via @Contrepoints) https://t.co/JvxAynSv5f",
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+            "text": "Les nouveaux monstres latino-am\u00e9ricains et le pape Fran\u00e7ois | Contrepoints Replay https://t.co/YNrIiJ7vyk",
             "truncated": false
         },
-        "statuses_count": 49349,
+        "statuses_count": 49372,
         "time_zone": "Paris",
         "url": "http://t.co/AzXsuQRM4i",
         "utc_offset": 3600,
@@ -5201,7 +5237,7 @@
         },
         "favourites_count": 15,
         "follow_request_sent": false,
-        "followers_count": 5352,
+        "followers_count": 5354,
         "following": true,
         "friends_count": 753,
         "geo_enabled": false,
@@ -5232,43 +5268,114 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 17:51:13 +0000 2015",
+            "created_at": "Tue Nov 24 17:55:22 +0000 2015",
             "entities": {
                 "hashtags": [],
                 "symbols": [],
-                "urls": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/_h16/status/66\u2026",
+                        "expanded_url": "https://twitter.com/_h16/status/669064429800148992",
+                        "indices": [
+                            139,
+                            140
+                        ],
+                        "url": "https://t.co/CCwDJFjy76"
+                    }
+                ],
                 "user_mentions": [
                     {
-                        "id": 195288840,
-                        "id_str": "195288840",
+                        "id": 34998436,
+                        "id_str": "34998436",
                         "indices": [
-                            0,
-                            11
+                            3,
+                            14
                         ],
-                        "name": "ghislain",
-                        "screen_name": "ghislain2f"
+                        "name": "Nathalie MP",
+                        "screen_name": "MPNathalie"
+                    },
+                    {
+                        "id": 23623562,
+                        "id_str": "23623562",
+                        "indices": [
+                            123,
+                            128
+                        ],
+                        "name": "h16",
+                        "screen_name": "_h16"
                     }
                 ]
             },
             "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 668849297388122113,
-            "id_str": "668849297388122113",
-            "in_reply_to_screen_name": "ghislain2f",
-            "in_reply_to_status_id": 668844930492669952,
-            "in_reply_to_status_id_str": "668844930492669952",
-            "in_reply_to_user_id": 195288840,
-            "in_reply_to_user_id_str": "195288840",
+            "id": 669212727949283328,
+            "id_str": "669212727949283328",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
             "lang": "fr",
             "place": null,
-            "retweet_count": 0,
+            "possibly_sensitive": false,
+            "retweet_count": 1,
             "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Tue Nov 24 17:32:49 +0000 2015",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/_h16/status/66\u2026",
+                            "expanded_url": "https://twitter.com/_h16/status/669064429800148992",
+                            "indices": [
+                                114,
+                                137
+                            ],
+                            "url": "https://t.co/CCwDJFjy76"
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "id": 23623562,
+                            "id_str": "23623562",
+                            "indices": [
+                                107,
+                                112
+                            ],
+                            "name": "h16",
+                            "screen_name": "_h16"
+                        }
+                    ]
+                },
+                "favorite_count": 0,
+                "favorited": false,
+                "geo": null,
+                "id": 669207053672542208,
+                "id_str": "669207053672542208",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "lang": "fr",
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 1,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "Si les m\u00e9dias ne ns rappelaient que l\u2019\u00c9tat veut ns prot\u00e9ger, on croirait presque qu\u2019il veut ns emprisonner @_h16  https://t.co/CCwDJFjy76",
+                "truncated": false
+            },
             "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "text": "@ghislain2f Je ne sais pas, ce n'est pas dans le d\u00e9cret, tr\u00e8s peu explicite.",
+            "text": "RT @MPNathalie: Si les m\u00e9dias ne ns rappelaient que l\u2019\u00c9tat veut ns prot\u00e9ger, on croirait presque qu\u2019il veut ns emprisonner @_h16  https://t\u2026",
             "truncated": false
         },
-        "statuses_count": 8696,
+        "statuses_count": 8700,
         "time_zone": "Ljubljana",
         "url": "http://t.co/rDagaD2u3h",
         "utc_offset": 3600,
@@ -5310,7 +5417,7 @@
         },
         "favourites_count": 281,
         "follow_request_sent": false,
-        "followers_count": 1231,
+        "followers_count": 1232,
         "following": true,
         "friends_count": 358,
         "geo_enabled": true,
@@ -5469,7 +5576,7 @@
         },
         "favourites_count": 254,
         "follow_request_sent": false,
-        "followers_count": 7314,
+        "followers_count": 7312,
         "following": true,
         "friends_count": 342,
         "geo_enabled": false,
@@ -5583,7 +5690,7 @@
         },
         "favourites_count": 0,
         "follow_request_sent": false,
-        "followers_count": 942,
+        "followers_count": 943,
         "following": true,
         "friends_count": 21,
         "geo_enabled": false,
@@ -5680,9 +5787,9 @@
                 ]
             }
         },
-        "favourites_count": 1168,
+        "favourites_count": 1169,
         "follow_request_sent": false,
-        "followers_count": 35958,
+        "followers_count": 35993,
         "following": true,
         "friends_count": 458,
         "geo_enabled": true,
@@ -5692,7 +5799,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "fr",
-        "listed_count": 913,
+        "listed_count": 911,
         "location": "Paris",
         "name": "l'Opinion",
         "notifications": false,
@@ -5713,28 +5820,28 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 23:31:40 +0000 2015",
+            "created_at": "Tue Nov 24 18:22:20 +0000 2015",
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "urls": [
                     {
-                        "display_url": "ow.ly/38gaY8",
-                        "expanded_url": "http://ow.ly/38gaY8",
+                        "display_url": "ow.ly/38igzt",
+                        "expanded_url": "http://ow.ly/38igzt",
                         "indices": [
-                            84,
-                            107
+                            63,
+                            86
                         ],
-                        "url": "https://t.co/GJKacMfjQg"
+                        "url": "https://t.co/HzbcTkc0DD"
                     }
                 ],
                 "user_mentions": []
             },
-            "favorite_count": 2,
+            "favorite_count": 0,
             "favorited": false,
             "geo": null,
-            "id": 668934974385610753,
-            "id_str": "668934974385610753",
+            "id": 669219516556156928,
+            "id_str": "669219516556156928",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -5743,13 +5850,13 @@
             "lang": "fr",
             "place": null,
             "possibly_sensitive": false,
-            "retweet_count": 4,
+            "retweet_count": 0,
             "retweeted": false,
             "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-            "text": "Publi\u00e9 \u00e0 l'instant : Etats-Unis : payer ses imp\u00f4ts pour ne pas perdre son passeport https://t.co/GJKacMfjQg",
+            "text": "Publi\u00e9 \u00e0 l'instant : Avec Colas, la route produit de l\u2019\u00e9nergie https://t.co/HzbcTkc0DD",
             "truncated": false
         },
-        "statuses_count": 34475,
+        "statuses_count": 34542,
         "time_zone": "Amsterdam",
         "url": "http://t.co/qG0vFJtLgC",
         "utc_offset": 3600,
@@ -5789,11 +5896,11 @@
                 ]
             }
         },
-        "favourites_count": 113,
+        "favourites_count": 114,
         "follow_request_sent": false,
-        "followers_count": 57310,
+        "followers_count": 57309,
         "following": true,
-        "friends_count": 4678,
+        "friends_count": 4682,
         "geo_enabled": false,
         "has_extended_profile": false,
         "id": 233842454,
@@ -5801,7 +5908,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1983,
+        "listed_count": 1981,
         "location": "Third District of Michigan",
         "name": "Justin Amash",
         "notifications": false,
@@ -5822,43 +5929,51 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 22:07:13 +0000 2015",
+            "created_at": "Tue Nov 24 18:01:18 +0000 2015",
             "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "urls": [],
-                "user_mentions": [
+                "hashtags": [
                     {
-                        "id": 885558410,
-                        "id_str": "885558410",
                         "indices": [
-                            0,
-                            16
+                            102,
+                            115
                         ],
-                        "name": "Nick Parisi",
-                        "screen_name": "nicholasjparisi"
+                        "text": "4thAmendment"
                     }
-                ]
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/politico/statu\u2026",
+                        "expanded_url": "https://twitter.com/politico/status/669210882048704512",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/RvsmiHplnk"
+                    }
+                ],
+                "user_mentions": []
             },
-            "favorite_count": 1,
+            "favorite_count": 29,
             "favorited": false,
             "geo": null,
-            "id": 668913721872244736,
-            "id_str": "668913721872244736",
-            "in_reply_to_screen_name": "nicholasjparisi",
-            "in_reply_to_status_id": 668913553299136513,
-            "in_reply_to_status_id_str": "668913553299136513",
-            "in_reply_to_user_id": 885558410,
-            "in_reply_to_user_id_str": "885558410",
+            "id": 669214223084318722,
+            "id_str": "669214223084318722",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
             "lang": "en",
             "place": null,
-            "retweet_count": 1,
+            "possibly_sensitive": false,
+            "retweet_count": 40,
             "retweeted": false,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "text": "@nicholasjparisi Thanks!",
+            "text": "Rubio backer running ads in SUPPORT of unconstitutional spying on all Americans. Despicable attack on #4thAmendment. https://t.co/RvsmiHplnk",
             "truncated": false
         },
-        "statuses_count": 9277,
+        "statuses_count": 9283,
         "time_zone": "Eastern Time (US & Canada)",
         "url": "https://t.co/uFWdhSG0lW",
         "utc_offset": -18000,
@@ -5890,7 +6005,7 @@
         },
         "favourites_count": 387,
         "follow_request_sent": false,
-        "followers_count": 723054,
+        "followers_count": 723348,
         "following": true,
         "friends_count": 405,
         "geo_enabled": true,
@@ -5900,7 +6015,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 9832,
+        "listed_count": 9837,
         "location": "",
         "name": "Dr. Rand Paul",
         "notifications": false,
@@ -5921,45 +6036,18 @@
         "status": {
             "contributors": null,
             "coordinates": null,
-            "created_at": "Mon Nov 23 23:38:18 +0000 2015",
+            "created_at": "Tue Nov 24 16:23:01 +0000 2015",
             "entities": {
-                "hashtags": [
-                    {
-                        "indices": [
-                            39,
-                            53
-                        ],
-                        "text": "StandWithRand"
-                    }
-                ],
+                "hashtags": [],
                 "symbols": [],
-                "urls": [
-                    {
-                        "display_url": "s.heyo.com/344a40",
-                        "expanded_url": "http://s.heyo.com/344a40",
-                        "indices": [
-                            91,
-                            114
-                        ],
-                        "url": "https://t.co/x9KmyrjaAd"
-                    },
-                    {
-                        "display_url": "amp.twimg.com/v/e420f52e-1b2\u2026",
-                        "expanded_url": "https://amp.twimg.com/v/e420f52e-1b27-471f-b1e5-144f72d76fbf",
-                        "indices": [
-                            115,
-                            138
-                        ],
-                        "url": "https://t.co/Q46opU46yF"
-                    }
-                ],
+                "urls": [],
                 "user_mentions": []
             },
-            "favorite_count": 71,
+            "favorite_count": 208,
             "favorited": false,
             "geo": null,
-            "id": 668936642246238208,
-            "id_str": "668936642246238208",
+            "id": 669189487142924289,
+            "id_str": "669189487142924289",
             "in_reply_to_screen_name": null,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -5967,14 +6055,13 @@
             "in_reply_to_user_id_str": null,
             "lang": "en",
             "place": null,
-            "possibly_sensitive": false,
-            "retweet_count": 35,
+            "retweet_count": 160,
             "retweeted": false,
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "text": "Do you want to tell the nation why you #StandWithRand? Record your video endorsement here: https://t.co/x9KmyrjaAd\nhttps://t.co/Q46opU46yF",
+            "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+            "text": "We should resist calls from some Presidential candidates to isolate ourselves from discussions with our adversaries.",
             "truncated": false
         },
-        "statuses_count": 7417,
+        "statuses_count": 7421,
         "time_zone": "Eastern Time (US & Canada)",
         "url": "https://t.co/mDO3dsmRcF",
         "utc_offset": -18000,

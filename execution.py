@@ -1,3 +1,4 @@
+# coding: utf8
 import sys
 import json
 from math import sqrt
@@ -7,16 +8,25 @@ import random
 input = open(sys.argv[1])
 lines = []
 for line in input:
-    data = json.loads(line)
+    data = json.loads(line.decode('utf8'))
     for x in data:
        if (x['following']):
            follow = 1
        else:
            follow = 0
-       description = str(x['description']).split()          
-       description_length = len(description)                #length of twitter bio
+       # Chaîne de caractères encodée: type ‘str’ Décodée: type ‘unicode’
+       description = unicode(x['description']).split()
+       print x['description']
+       print x['name']
+       print type(x['name'])
+       description_length = len(description) # Length of twitter bio
        apple = [x['name'], x['followers_count'], x['statuses_count'],x['friends_count'], x['favourites_count'], follow, description_length]
        lines.append(apple)
+       print type(apple[0])
+       print "apple[0]: %s" % apple[0] # OK
+       # print "apple[0]: %s" % apple[0].encode('utf8') # OK too
+       print apple
+       print type(apple)
 
 #Create friend-vectors and friend-vector-names
 vecnames = []
@@ -87,7 +97,10 @@ def clustering(vectors,k,distance=pearson):
       
   return bestmatches
 
-#Print 5 Clusters of my Twitter friends
+# Print 5 Clusters of my Twitter friends
 clust = clustering(vectors, k=5)
 for i in range(len(clust)):
     print [vecnames[t] for t in clust[i]]
+    # type(vecnames[t]) = unicode
+    # print [vecnames[t].encode('utf8') for t in clust[i]] OK, plus de u avant
+    # .encode('ascii', 'ignore') rien
